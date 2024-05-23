@@ -6,6 +6,11 @@ about:
   template: jolla
   image-shape: round
   image-width: 20em
+  links:
+    - text: GitHub
+      href: https://github.com/Brookepryan
+    - text: Email
+      href: mailto:brookeryan@ucsb.edu
 
 ---
 
