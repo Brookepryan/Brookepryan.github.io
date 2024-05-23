@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "envrionmental.html",
+    "href": "envrionmental.html",
+    "title": "Environmental Experience",
+    "section": "",
+    "text": "My academic and professional experience in Environmental Studies\n\n1+1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brooke Ryan",
     "section": "",
-    "text": "Hi there! My name is Brooke, I am a third year undergraduate student at UCSB. I am double majoring in Environmental Studies & Spanish."
+    "text": "Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB."
   },
   {
     "objectID": "about.html",
@@ -12,12 +19,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "envrionmental.html",
-    "href": "envrionmental.html",
-    "title": "Environmental Experience",
-    "section": "",
-    "text": "1+1\n\n[1] 2"
   }
 ]

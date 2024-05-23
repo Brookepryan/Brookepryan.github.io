@@ -1,9 +1,8 @@
 ---
 title: "Environmental Experience"
-
 ---
 
-
+My academic and professional experience in Environmental Studies
 
 ```{r}
 1+1
