@@ -8,9 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - environmental_experience.qmd
-      - sewing.qmd
+      - href: about.qmd
+        text: About
+      - href: environmental_experience.qmd
+        text: Environmental Experience
+      - href: sewing.qmd
+        text: Sewing!
 
 format:
   html:
