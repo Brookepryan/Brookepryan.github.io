@@ -1,11 +1,9 @@
 ---
-title: "Brookepryan.github.io"
+title: "Brooke Ryan"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi there! My name is Brooke, I am a third year undergraduate student at UCSB. I am double majoring in Environmental Studies & Spanish.
 
 ```{r}
-1 + 1
+1 + 1 
 ```
