@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - environmental_experience.qmd
       - sewing.qmd
+      - environmental_experience.qmd
 
 format:
   html:
