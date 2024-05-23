@@ -7,13 +7,6 @@
     "text": "I taught myself to sew three years ago"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Brooke Ryan",
@@ -21,10 +14,17 @@
     "text": "Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB."
   },
   {
-    "objectID": "envrionmental.html",
-    "href": "envrionmental.html",
+    "objectID": "environmental_experience.html",
+    "href": "environmental_experience.html",
     "title": "Environmental Experience",
     "section": "",
     "text": "My academic and professional experience in Environmental Studies\n\n1+1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
