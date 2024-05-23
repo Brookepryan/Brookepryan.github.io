@@ -1,9 +1,13 @@
 ---
 title: "Brooke Ryan"
+image: media/testphoto.jpg
+2toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+
 ---
 
 Hi there! My name is Brooke, I am a third year undergraduate student at UCSB. I am double majoring in Environmental Studies & Spanish.
 
-```{r}
-1 + 1 
-```
