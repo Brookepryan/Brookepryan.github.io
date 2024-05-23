@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - envrionmental.qmd
+      - sewing.qmd
 
 format:
   html:
