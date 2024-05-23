@@ -1,6 +1,6 @@
 ---
 title: "Brooke Ryan"
-image: media/b003297-r3-14-16a.JPG
+image: media/newpic.jpg
 2toc: false
 about: 
   template: jolla
