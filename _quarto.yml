@@ -12,8 +12,9 @@ website:
         text: About
       - href: environmental_experience.qmd
         text: Environmental Experience
-      - href: sewing.qmd
+      - href: sewing_blog.qmd
         text: Sewing!
+        
 
 format:
   html:

@@ -11,8 +11,6 @@ about:
       href: https://github.com/Brookepryan
     - text: Email
       href: mailto:brookeryan@ucsb.edu
-
 ---
 
-Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB. 
-
+Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB.

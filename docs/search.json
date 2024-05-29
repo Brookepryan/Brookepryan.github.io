@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "sewing.html",
-    "href": "sewing.html",
-    "title": "Sewing!",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.\n\nProfessional Experience:\n\nInternship at Old Flame Mending\n\nJun-Sep 2022\n\n\n\nSewist for UCSB Costume Shop\n\nJun-Sep 2022"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
@@ -14,6 +14,13 @@
     "text": "Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB."
   },
   {
+    "objectID": "posts/example_post.html",
+    "href": "posts/example_post.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Internship at Old Flame Mending\n\nJun-Sep 2022\nSewist for UCSB Costume Shop\n\n\nJun-Sep 2022"
+  },
+  {
     "objectID": "environmental_experience.html",
     "href": "environmental_experience.html",
     "title": "Environmental Experience",
@@ -21,10 +28,10 @@
     "text": "My academic and professional experience in Environmental Studies\n\n1+1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "sewing_blog.html",
+    "href": "sewing_blog.html",
+    "title": "Sewing!",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Experience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
