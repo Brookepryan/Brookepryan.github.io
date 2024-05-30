@@ -7,4 +7,5 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
+
 I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.
