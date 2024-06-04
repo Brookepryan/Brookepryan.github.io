@@ -18,12 +18,11 @@ website:
 
 format:
   html:
-    theme:
-      light: minty
-      dark: superhero
-    css: styles.css
+    theme: styles.scss
+    light: minty
+    dark: superhero
+    mainfont: "Quicksand"
     toc: true
     page-layout: full
 
-editor: visual
 

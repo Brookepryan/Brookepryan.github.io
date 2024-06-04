@@ -1,6 +1,6 @@
 ---
 title: "Professional Experience"
-subtitle: "A history of my previous sewing positions"
+subtitle: A history of my previous sewing positions
 ---
 
 

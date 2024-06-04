@@ -13,6 +13,7 @@ about:
       href: mailto:brookeryan@ucsb.edu
     - text: LinkedIn
       href: https://www.linkedin.com/in/brooke-ryan-92366a256/
+      
 ---
 
 Hi there! My name is Brooke, I am a third year undergraduate student double majoring in Environmental Studies & Spanish at UCSB.
