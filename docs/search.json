@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "spanish.html",
+    "href": "spanish.html",
+    "title": "Spanish Development",
     "section": "",
-    "text": "Background\nOriginally from Pittsburgh, Pa, I came to UCSB in 2021 to pursue a degree in Environmental Studies. Since then, I developed an interest in Spanish language, literature, and history which led me to pursue a second degree in Spanish."
+    "text": "English\n\n\n\nEmpecé a aprender Español hace dos años, al comienzo de mis segundo año en la UCSB.\n\n\nEsta es la versión en español de la página.\n\n\n¡Tuve la oportunidad de desarrollar mis habilidades para hablar español mientras vivía en Madrid, España durante un semestre!\n\n\nDurante mi estancia en Madrid, asistí a la Universidad Complutense y tomé clases de Teatro Latinoamericano, Literatura Española Actual y el Cuento Español.\n\n\n\n\nI started learning Spanish two years ago, at the beginning of my second year at UCSB\n\n\nThis is the English version of the page..\n\n\nI had the opportunity to develop my spanish-speaking abilities while living in Madrid, Spain for a semester!\n\n\nWhile in Madrid, I attended the Universidad de Complutense and took classes on Latin American Theater, Modern Spanish Literature, and the Spanish Short Story."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brooke Ryan",
+    "objectID": "sewing_blog.html",
+    "href": "sewing_blog.html",
+    "title": "Sewing!",
     "section": "",
-    "text": "“Hi there! My name is Brooke. I am a third-year undergraduate student at UCSB, double majoring in Environmental Studies and Spanish.”"
+    "text": "I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainable Swimwear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Experience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "environmental_experience.html",
+    "href": "environmental_experience.html",
+    "title": "Environmental Experience",
+    "section": "",
+    "text": "My academic and professional experience in Environmental Studies\n\n1+1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/personal_sewing.html",
+    "href": "posts/personal_sewing.html",
+    "title": "Sustainable Swimwear",
+    "section": "",
+    "text": "I designed and crafted two styles of slow-fashion athletic swimwear."
   },
   {
     "objectID": "posts/example_post.html",
@@ -35,24 +49,17 @@
     "text": "Old Flame Mending\nPosition: Sewing Intern\nDuration: [Jun 2022] - [Sep 2022]\n\nResponsibilities:\n\nAssisted in the repair and restoration of used/vintage clothing.\nPerformed hand and machine sewing to mend and alter garments.\nCollaborated with senior menders on complex restoration projects.\nManaged inventory of materials and supplies.\n\n\n\nSkills Developed:\n\nProficiency in hand and machine sewing techniques.\nKnowledge of vintage fabric care and restoration methods.\nAbility to work under tight deadlines while maintaining quality."
   },
   {
-    "objectID": "posts/personal_sewing.html",
-    "href": "posts/personal_sewing.html",
-    "title": "Sustainable Swimwear",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brooke Ryan",
     "section": "",
-    "text": "I designed and crafted two styles of slow-fashion athletic swimwear."
+    "text": "“Hi there! My name is Brooke. I am a third-year undergraduate student at UCSB, double majoring in Environmental Studies and Spanish.”"
   },
   {
-    "objectID": "environmental_experience.html",
-    "href": "environmental_experience.html",
-    "title": "Environmental Experience",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "My academic and professional experience in Environmental Studies\n\n1+1\n\n[1] 2"
-  },
-  {
-    "objectID": "sewing_blog.html",
-    "href": "sewing_blog.html",
-    "title": "Sewing!",
-    "section": "",
-    "text": "I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSustainable Swimwear\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessional Experience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Background\nOriginally from Pittsburgh, Pa, I came to UCSB in 2021 to pursue a degree in Environmental Studies. Since then, I developed an interest in Spanish language, literature, and history which led me to pursue a second degree in Spanish."
   }
 ]

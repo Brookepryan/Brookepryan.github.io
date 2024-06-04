@@ -12,6 +12,8 @@ website:
         text: About
       - href: environmental_experience.qmd
         text: Environmental Experience
+      - href: spanish.qmd
+        text: Spanish Development
       - href: sewing_blog.qmd
         text: Sewing!
         
