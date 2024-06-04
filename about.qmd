@@ -1,9 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# Background
 
-```{r}
-1 + 1
-```
+Originally from Pittsburgh, Pa, I came to UCSB in 2021 to pursue a degree in Environmental Studies. Since then, I developed an interest in Spanish language, literature, and history which led me to pursue a second degree in Spanish. 
+
