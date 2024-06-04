@@ -1,9 +1,8 @@
 ---
 title: "Environmental Experience"
+filters:
+   - lightbox
+lightbox: auto
 ---
 
-My academic and professional experience in Environmental Studies
-
-```{r}
-1+1
-```
+![A Lovely Image](media/newpic.jpg)
