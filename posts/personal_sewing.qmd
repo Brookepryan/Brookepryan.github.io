@@ -1,0 +1,7 @@
+---
+title: "Sustainable Swimwear"
+subtitle: "Eco-friendly swimwear, designed and crafted by me"
+image: media/swimwear1.png
+---
+
+# I designed and crafted two styles of slow-fashion athletic swimwear.

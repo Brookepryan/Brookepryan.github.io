@@ -2,6 +2,7 @@
   {
     "listing": "/sewing_blog.html",
     "items": [
+      "/posts/personal_sewing.html",
       "/posts/example_post.html"
     ]
   }
