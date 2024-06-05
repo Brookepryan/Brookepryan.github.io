@@ -161,9 +161,21 @@ function toggleLanguage() {
     }
   }
 }
+
+// Set initial button text based on default language display state
+document.addEventListener('DOMContentLoaded', function() {
+  var button = document.getElementById('languageToggle');
+  var spanish = document.getElementsByClassName('spanish');
+  
+  if (spanish[0].style.display === 'none') {
+    button.textContent = 'Spanish';
+  } else {
+    button.textContent = 'English';
+  }
+});
 </script>
 <button id="languageToggle" onclick="toggleLanguage()">
-English
+Spanish
 </button>
 <div class="english" style="display: block;">
 <h2 class="anchored">
@@ -200,33 +212,33 @@ Durante mi estancia en Madrid, asistí a la Universidad Complutense y tomé clas
 </p>
 </div>
 <p>:::</p>
-<p><a href="media/palace.jpeg" class="lightbox" data-gallery="madrid" data-description="Palacio
+<p><a href="media/palace.jpeg" class="lightbox" data-description="Palacio
 
 Real
 
 de
 
-Madrid"><img src="media/palace.jpeg" class="img-fluid"></a></p>
-<p><a href="media/el_retiro.jpeg" class="lightbox" data-gallery="madrid" data-description="Parque
+Madrid" data-gallery="madrid"><img src="media/palace.jpeg" class="img-fluid"></a></p>
+<p><a href="media/el_retiro.jpeg" class="lightbox" data-description="Parque
 
 de
 
 El
 
-Retiro"><img src="media/el_retiro.jpeg" class="img-fluid"></a></p>
-<p><a href="media/real_jardin.jpeg" class="lightbox" data-gallery="ENVS" data-description="Real
+Retiro" data-gallery="madrid"><img src="media/el_retiro.jpeg" class="img-fluid"></a></p>
+<p><a href="media/real_jardin.jpeg" class="lightbox" data-description="Real
 
 Jardín
 
-Botánico"><img src="media/real_jardin.jpeg" class="img-fluid"></a></p>
-<p><a href="media/embajadores.jpeg" class="lightbox" data-gallery="madrid" data-description="Embajadores,
+Botánico" data-gallery="ENVS"><img src="media/real_jardin.jpeg" class="img-fluid"></a></p>
+<p><a href="media/embajadores.jpeg" class="lightbox" data-description="Embajadores,
 
-Madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
-<p><a href="media/madrid_sheep.jpeg" class="lightbox" data-gallery="madrid" data-description="Tanshumance
+Madrid" data-gallery="madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
+<p><a href="media/madrid_sheep.jpeg" class="lightbox" data-description="Tanshumance
 
 Festival,
 
-Madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
+Madrid" data-gallery="madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
 <p>:::{layout=“[[1,1], [1,1,1]]}</p>
 
 
@@ -642,7 +654,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","loop":false,"openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"descPosition":"bottom","closeEffect":"zoom","selector":".lightbox","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

@@ -24,16 +24,28 @@ function toggleLanguage() {
     }
   }
 }
+
+// Set initial button text based on default language display state
+document.addEventListener('DOMContentLoaded', function() {
+  var button = document.getElementById('languageToggle');
+  var spanish = document.getElementsByClassName('spanish');
+  
+  if (spanish[0].style.display === 'none') {
+    button.textContent = 'Spanish';
+  } else {
+    button.textContent = 'English';
+  }
+});
 </script>
 
-<button id="languageToggle" onclick="toggleLanguage()">English</button>
+<button id="languageToggle" onclick="toggleLanguage()">Spanish</button>
 
 <div class="english" style="display: block;"> 
   <h2> I have learned a lot since I started studying Spanish at UCSB two years ago!</h1>
   <p>In addition to teaching language proficiency, the Spanish major encompasses a diverse range of subjects including linguistics, language and translation, Peninsular Spanish studies, Latin American studies, U.S. Latinx studies, and Indigenous languages and cultures of the Americas.</p>
   <h2> I had the opportunity to develop my Spanish-speaking abilities while living in Madrid, Spain for a semester!</h1>
   <p> While in Madrid, I attended the Universidad de Complutense and took classes on Latin American Theater, Modern Spanish Literature, and the Spanish Short Story. Apart from just my studies, I learned a lot about Spanish culture, art, and history through experience. </p>
-   <p>Take a look at some of my photos from the trip!!</p>
+  <p>Take a look at some of my photos from the trip!!</p>
 </div>
 
 
