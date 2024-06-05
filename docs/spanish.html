@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -170,7 +173,7 @@ I have learned a lot since I started studying Spanish at UCSB two years ago!
 In addition to teaching language proficiency, the Spanish major encompasses a diverse range of subjects including linguistics, language and translation, Peninsular Spanish studies, Latin American studies, U.S. Latinx studies, and Indigenous languages and cultures of the Americas.
 </p>
 <h2 class="anchored">
-I had the opportunity to develop my spanish-speaking abilities while living in Madrid, Spain for a semester!
+I had the opportunity to develop my Spanish-speaking abilities while living in Madrid, Spain for a semester!
 </h2>
 <p>
 While in Madrid, I attended the Universidad de Complutense and took classes on Latin American Theater, Modern Spanish Literature, and the Spanish Short Story. Apart from just my studies, I learned a lot about Spanish culture, art, and history through experience.
@@ -196,6 +199,33 @@ Durante mi estancia en Madrid, asistí a la Universidad Complutense y tomé clas
 ¡Echa un vistazo a algunas de las fotos de mi estancia en Madrid!
 </p>
 </div>
+<p><a href="media/palace.jpeg" class="lightbox" data-gallery="madrid" data-description="CPalacio
+
+Real
+
+de
+
+Madrid"><img src="media/palace.jpeg" class="img-fluid"></a></p>
+<p><a href="media/el_retiro.jpeg" class="lightbox" data-gallery="madrid" data-description="Parque
+
+de
+
+El
+
+Retiro"><img src="media/el_retiro.jpeg" class="img-fluid"></a></p>
+<p><a href="media/real_jardin.jpeg" class="lightbox" data-gallery="ENVS" data-description="Real
+
+Jardín
+
+Botánico"><img src="media/real_jardin.jpeg" class="img-fluid"></a></p>
+<p><a href="media/embajadores.jpeg" class="lightbox" data-gallery="madrid" data-description="Embajadores,
+
+Madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
+<p><a href="media/madrid_sheep.jpeg" class="lightbox" data-gallery="madrid" data-description="Tanshumance
+
+Festival,
+
+Madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
 
 
 
@@ -610,6 +640,31 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":false,"selector":".lightbox"});
+window.onload = () => {
+  lightboxQuarto.on('slide_before_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    const href = trigger.getAttribute('href');
+    if (href !== null) {
+      const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+      if (imgEl !== null) {
+        const srcAttr = imgEl.getAttribute("src");
+        if (srcAttr && srcAttr.startsWith("data:")) {
+          slideConfig.href = srcAttr;
+        }
+      }
+    } 
+  });
+
+  lightboxQuarto.on('slide_after_load', (data) => {
+    const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+    if (window.Quarto?.typesetMath) {
+      window.Quarto.typesetMath(slideNode);
+    }
+  });
+
+};
+          </script>
 
 
 

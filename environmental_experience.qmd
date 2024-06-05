@@ -5,4 +5,34 @@ filters:
 lightbox: auto
 ---
 
-![A Lovely Image](media/newpic.jpg)
+As an environmental studies major, I feel passionate about sustainable fashion, sustainable agriculture, plant ecology, and wildfires. But most of all, I love spending time outside appreciating natural ecosystems! Here are some pictures of me/taken by me outside:
+
+::: {layout="[[1, 1, 1, 1, 1, 1, 1, 1]]"}
+
+![](media/sb_camping.jpeg){group="ENVS"
+description="Camping in the mountains of Santa Barbara"}
+
+![](media/santa_cruz.jpeg){group="ENVS"
+description="Hiking on Santa Cruz Island"}
+
+![](media/portugal.jpeg){group="ENVS"
+description="Lagos, Portugal"}
+
+![](media/new_zealand.jpeg){group="ENVS"
+description="Halfway up Mt. Armstrong, New Zealand"}
+
+![](media/sheep.jpeg){group="ENVS"
+description="Sheep at Wānaka, New Zealand"}
+
+![](media/glacier.jpeg){group="ENVS"
+description="Glacier at the top of Mt. Armstrong, New Zealand"}
+
+![](media/peak.jpeg){group="ENVS"
+description="Mountain Peak, New Zealand"}
+
+
+![](media/hike.jpeg){group="ENVS"
+description="hiking, New Zealand"}
+
+:::
+
