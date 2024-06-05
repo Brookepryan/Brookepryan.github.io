@@ -217,43 +217,43 @@ Durante mi estancia en Madrid, asistí a la Universidad Complutense y tomé clas
 <div class="quarto-layout-panel" data-layout="[[1, 1, ], [1, 1, 1]]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/palace.jpeg" class="lightbox" data-gallery="madrid" data-description="Palacio
+<p><a href="media/palace.jpeg" class="lightbox" data-description="Palacio
 
 Real
 
 de
 
-Madrid"><img src="media/palace.jpeg" class="img-fluid"></a></p>
+Madrid" data-gallery="madrid"><img src="media/palace.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/el_retiro.jpeg" class="lightbox" data-gallery="madrid" data-description="Parque
+<p><a href="media/el_retiro.jpeg" class="lightbox" data-description="Parque
 
 de
 
 El
 
-Retiro"><img src="media/el_retiro.jpeg" class="img-fluid"></a></p>
+Retiro" data-gallery="madrid"><img src="media/el_retiro.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/real_jardin.jpeg" class="lightbox" data-gallery="ENVS" data-description="Real
+<p><a href="media/real_jardin.jpeg" class="lightbox" data-description="Real
 
 Jardín
 
-Botánico"><img src="media/real_jardin.jpeg" class="img-fluid"></a></p>
+Botánico" data-gallery="ENVS"><img src="media/real_jardin.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/embajadores.jpeg" class="lightbox" data-gallery="madrid" data-description="Embajadores,
+<p><a href="media/embajadores.jpeg" class="lightbox" data-description="Embajadores,
 
-Madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
+Madrid" data-gallery="madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/madrid_sheep.jpeg" class="lightbox" data-gallery="madrid" data-description="Tanshumance
+<p><a href="media/madrid_sheep.jpeg" class="lightbox" data-description="Tanshumance
 
 Festival,
 
-Madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
+Madrid" data-gallery="madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -671,7 +671,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","selector":".lightbox","closeEffect":"zoom","descPosition":"bottom","loop":false});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
