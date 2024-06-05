@@ -17,7 +17,7 @@ One-piece:
 ![](sewing_images/grass_one_piece.jpeg){group="onepiece"
 description="one-piece, black"}
 
-![](sewing_images/one_piece.jpeg){group="ENVS"
+![](sewing_images/one_piece.jpeg){group="onepiece"
 description="one_piece, brown"}
 
 ![](sewing_images/swimwear_preview.jpeg){group="onepiece"
@@ -25,10 +25,9 @@ description="One-piece, brown"}
 
 :::
 
+Bikini:
 
 ::: {layout="[1, 1, 1]"}
-
-Bikini:
 
 ![](sewing_images/grass_bikini.jpeg){group="bikini"
 description="bikini, brown"}

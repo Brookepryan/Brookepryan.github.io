@@ -157,46 +157,42 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout="[1, 1, 1]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/grass_one_piece.jpeg" class="lightbox" data-description="one-piece,
+<p><a href="sewing_images/grass_one_piece.jpeg" class="lightbox" data-gallery="onepiece" data-description="one-piece,
 
-black" data-gallery="onepiece"><img src="sewing_images/grass_one_piece.jpeg" class="img-fluid"></a></p>
+black"><img src="sewing_images/grass_one_piece.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/one_piece.jpeg" class="lightbox" data-description="one_piece,
+<p><a href="sewing_images/one_piece.jpeg" class="lightbox" data-gallery="onepiece" data-description="one_piece,
 
-brown" data-gallery="ENVS"><img src="sewing_images/one_piece.jpeg" class="img-fluid"></a></p>
+brown"><img src="sewing_images/one_piece.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/swimwear_preview.jpeg" class="lightbox" data-description="One-piece,
+<p><a href="sewing_images/swimwear_preview.jpeg" class="lightbox" data-gallery="onepiece" data-description="One-piece,
 
-brown" data-gallery="onepiece"><img src="sewing_images/swimwear_preview.jpeg" class="img-fluid"></a></p>
+brown"><img src="sewing_images/swimwear_preview.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
+<p>Bikini:</p>
 <div>
 
 </div>
 <div class="quarto-layout-panel" data-layout="[1, 1, 1]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: flex-start;">
-<p>Bikini:</p>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="sewing_images/grass_bikini.jpeg" class="lightbox" data-gallery="bikini" data-description="bikini,
+
+brown"><img src="sewing_images/grass_bikini.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/grass_bikini.jpeg" class="lightbox" data-description="bikini,
+<p><a href="sewing_images/side_view.jpeg" class="lightbox" data-gallery="bikini" data-description="bikini,
 
-brown" data-gallery="bikini"><img src="sewing_images/grass_bikini.jpeg" class="img-fluid"></a></p>
+brown"><img src="sewing_images/side_view.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/side_view.jpeg" class="lightbox" data-description="bikini,
+<p><a href="sewing_images/bikini.jpeg" class="lightbox" data-gallery="bikini" data-description="bikini,
 
-brown" data-gallery="bikini"><img src="sewing_images/side_view.jpeg" class="img-fluid"></a></p>
-</div>
-</div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/bikini.jpeg" class="lightbox" data-description="bikini,
-
-black" data-gallery="bikini"><img src="sewing_images/bikini.jpeg" class="img-fluid"></a></p>
+black"><img src="sewing_images/bikini.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -614,7 +610,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","loop":false,"closeEffect":"zoom","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
