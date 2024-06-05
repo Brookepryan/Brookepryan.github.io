@@ -5,9 +5,9 @@ filters:
 lightbox: auto
 ---
 
-As an environmental studies major, I feel passionate about sustainable fashion, sustainable agriculture, plant ecology, and wildfires. But most of all, I love spending time outside appreciating natural ecosystems! Here are some pictures of me/taken by me outside:
+As an environmental studies major, I am passionate about sustainable fashion, sustainable agriculture, plant ecology, and wildfires. But most of all, I love spending time outside appreciating natural ecosystems! Here are some pictures of me/taken by me outside:
 
-::: {layout="[[1, 1, 1], [1, 1, 1, 1, 1]]"}
+::: {layout="[[1, 1, 1], [1, 1], [1, 1, 1]]"}
 
 ![](media/sb_camping.jpeg){group="ENVS"
 description="Camping in the mountains of Santa Barbara"}
