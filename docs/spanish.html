@@ -199,7 +199,8 @@ Durante mi estancia en Madrid, asistí a la Universidad Complutense y tomé clas
 ¡Echa un vistazo a algunas de las fotos de mi estancia en Madrid!
 </p>
 </div>
-<p><a href="media/palace.jpeg" class="lightbox" data-gallery="madrid" data-description="CPalacio
+<p>:::</p>
+<p><a href="media/palace.jpeg" class="lightbox" data-gallery="madrid" data-description="Palacio
 
 Real
 
@@ -226,6 +227,7 @@ Madrid"><img src="media/embajadores.jpeg" class="img-fluid"></a></p>
 Festival,
 
 Madrid"><img src="media/madrid_sheep.jpeg" class="img-fluid"></a></p>
+<p>:::{layout=“[[1,1], [1,1,1]]}</p>
 
 
 
@@ -640,7 +642,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom","loop":false,"selector":".lightbox"});
+<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","loop":false,"openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

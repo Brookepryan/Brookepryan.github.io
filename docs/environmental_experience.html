@@ -146,9 +146,9 @@ ul.task-list li input[type="checkbox"] {
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout="[[1, 1, 1, 1, 1, 1, 1, 1]]">
+<div class="quarto-layout-panel" data-layout="[[1, 1, 1], [1, 1, 1, 1, 1]]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <p><a href="media/sb_camping.jpeg" class="lightbox" data-description="Camping
 
 in
@@ -163,7 +163,7 @@ Santa
 
 Barbara" data-gallery="ENVS"><img src="media/sb_camping.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <p><a href="media/santa_cruz.jpeg" class="lightbox" data-description="Hiking
 
 on
@@ -174,12 +174,14 @@ Cruz
 
 Island" data-gallery="ENVS"><img src="media/santa_cruz.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
 <p><a href="media/portugal.jpeg" class="lightbox" data-description="Lagos,
 
 Portugal" data-gallery="ENVS"><img src="media/portugal.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
 <p><a href="media/new_zealand.jpeg" class="lightbox" data-description="Halfway
 
 up
@@ -192,7 +194,7 @@ New
 
 Zealand" data-gallery="ENVS"><img src="media/new_zealand.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
 <p><a href="media/sheep.jpeg" class="lightbox" data-description="Sheep
 
 at
@@ -203,7 +205,7 @@ New
 
 Zealand" data-gallery="ENVS"><img src="media/sheep.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
 <p><a href="media/glacier.jpeg" class="lightbox" data-description="Glacier
 
 at
@@ -222,7 +224,7 @@ New
 
 Zealand" data-gallery="ENVS"><img src="media/glacier.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
 <p><a href="media/peak.jpeg" class="lightbox" data-description="Mountain
 
 Peak,
@@ -231,7 +233,7 @@ New
 
 Zealand" data-gallery="ENVS"><img src="media/peak.jpeg" class="img-fluid"></a></p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 12.5%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
 <p><a href="media/hike.jpeg" class="lightbox" data-description="hiking,
 
 New
@@ -654,7 +656,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

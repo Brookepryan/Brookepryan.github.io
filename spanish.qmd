@@ -45,8 +45,10 @@ function toggleLanguage() {
   <p> ¡Echa un vistazo a algunas de las fotos de mi estancia en Madrid!</p>
 </div>
 
+::: 
+
 ![](media/palace.jpeg){group="madrid"
-description="CPalacio Real de Madrid"}
+description="Palacio Real de Madrid"}
 
 ![](media/el_retiro.jpeg){group="madrid"
 description="Parque de El Retiro"}
@@ -61,5 +63,5 @@ description="Embajadores, Madrid"}
 description="Tanshumance Festival, Madrid"}
 
 
-
+:::{layout="[[1,1], [1,1,1]]}
 
