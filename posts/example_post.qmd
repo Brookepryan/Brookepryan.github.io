@@ -1,6 +1,7 @@
 ---
 title: "Professional Experience"
-subtitle: A history of my previous sewing positions
+image: sewing_images/new_preview.jpeg
+description: A history of my previous sewing positions
 ---
 
 ## **[UCSB Costume Shop](https://www.theaterdance.ucsb.edu)**
