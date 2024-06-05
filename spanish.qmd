@@ -57,7 +57,7 @@ document.addEventListener('DOMContentLoaded', function() {
   <p> ¡Echa un vistazo a algunas de las fotos de mi estancia en Madrid!</p>
 </div>
 
-::: {layout="[[1, 1, ], [1, 1, 1]]"}
+::: {layout="[[1, 1], [1, 1, 1]]"}
 
 ![](media/palace.jpeg){group="madrid"
 description="Palacio Real de Madrid"}
@@ -67,6 +67,7 @@ description="Parque de El Retiro"}
 
 ![](media/real_jardin.jpeg){group="madrid"
 description="Real Jardín Botánico"}
+
 
 ![](media/embajadores.jpeg){group="madrid"
 description="Embajadores, Madrid"}

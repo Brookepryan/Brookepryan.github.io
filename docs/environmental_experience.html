@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout="[[1, 1, 1], [1, 1], [1, 1, 1]]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/sb_camping.jpeg" class="lightbox" data-gallery="ENVS" data-description="Camping
+<p><a href="media/sb_camping.jpeg" class="lightbox" data-description="Camping
 
 in
 
@@ -161,10 +161,10 @@ of
 
 Santa
 
-Barbara"><img src="media/sb_camping.jpeg" class="img-fluid"></a></p>
+Barbara" data-gallery="ENVS"><img src="media/sb_camping.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/santa_cruz.jpeg" class="lightbox" data-gallery="ENVS" data-description="Hiking
+<p><a href="media/santa_cruz.jpeg" class="lightbox" data-description="Hiking
 
 on
 
@@ -172,17 +172,17 @@ Santa
 
 Cruz
 
-Island"><img src="media/santa_cruz.jpeg" class="img-fluid"></a></p>
+Island" data-gallery="ENVS"><img src="media/santa_cruz.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/portugal.jpeg" class="lightbox" data-gallery="ENVS" data-description="Lagos,
+<p><a href="media/portugal.jpeg" class="lightbox" data-description="Lagos,
 
-Portugal"><img src="media/portugal.jpeg" class="img-fluid"></a></p>
+Portugal" data-gallery="ENVS"><img src="media/portugal.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/new_zealand.jpeg" class="lightbox" data-gallery="ENVS" data-description="Halfway
+<p><a href="media/new_zealand.jpeg" class="lightbox" data-description="Halfway
 
 up
 
@@ -192,10 +192,10 @@ Armstrong,
 
 New
 
-Zealand"><img src="media/new_zealand.jpeg" class="img-fluid"></a></p>
+Zealand" data-gallery="ENVS"><img src="media/new_zealand.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="media/sheep.jpeg" class="lightbox" data-gallery="ENVS" data-description="Sheep
+<p><a href="media/sheep.jpeg" class="lightbox" data-description="Sheep
 
 at
 
@@ -203,12 +203,12 @@ Wānaka,
 
 New
 
-Zealand"><img src="media/sheep.jpeg" class="img-fluid"></a></p>
+Zealand" data-gallery="ENVS"><img src="media/sheep.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/glacier.jpeg" class="lightbox" data-gallery="ENVS" data-description="Glacier
+<p><a href="media/glacier.jpeg" class="lightbox" data-description="Glacier
 
 at
 
@@ -224,23 +224,23 @@ Armstrong,
 
 New
 
-Zealand"><img src="media/glacier.jpeg" class="img-fluid"></a></p>
+Zealand" data-gallery="ENVS"><img src="media/glacier.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/peak.jpeg" class="lightbox" data-gallery="ENVS" data-description="Mountain
+<p><a href="media/peak.jpeg" class="lightbox" data-description="Mountain
 
 Peak,
 
 New
 
-Zealand"><img src="media/peak.jpeg" class="img-fluid"></a></p>
+Zealand" data-gallery="ENVS"><img src="media/peak.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="media/hike.jpeg" class="lightbox" data-gallery="ENVS" data-description="hiking,
+<p><a href="media/hike.jpeg" class="lightbox" data-description="hiking,
 
 New
 
-Zealand"><img src="media/hike.jpeg" class="img-fluid"></a></p>
+Zealand" data-gallery="ENVS"><img src="media/hike.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -658,7 +658,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom","loop":false});
+<script>var lightboxQuarto = GLightbox({"openEffect":"zoom","loop":false,"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
