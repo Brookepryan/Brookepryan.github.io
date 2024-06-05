@@ -35,9 +35,6 @@ description="bikini, brown"}
 ![](sewing_images/side_view.jpeg){group="bikini"
 description="bikini, brown"}
 
-![](sewing_images/bikini.jpeg){group="bikini"
-description="bikini, black"}
-
 :::
 
 
