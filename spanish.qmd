@@ -65,7 +65,7 @@ description="Palacio Real de Madrid"}
 ![](media/el_retiro.jpeg){group="madrid"
 description="Parque de El Retiro"}
 
-![](media/real_jardin.jpeg){group="ENVS"
+![](media/real_jardin.jpeg){group="madrid"
 description="Real Jardín Botánico"}
 
 ![](media/embajadores.jpeg){group="madrid"
