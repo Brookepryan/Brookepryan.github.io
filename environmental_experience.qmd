@@ -1,5 +1,5 @@
 ---
-title: "Environmental Experience"
+title: "Earth"
 filters:
    - lightbox
 lightbox: auto

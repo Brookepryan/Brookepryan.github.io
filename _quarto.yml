@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: environmental_experience.qmd
-        text: Environmental Experience
+        text: Earth
       - href: spanish.qmd
-        text: Spanish Development
+        text: Spanish
       - href: sewing_blog.qmd
         text: Sewing!
         
