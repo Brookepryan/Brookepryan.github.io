@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: environmental_experience.qmd
-        text: Earth
+        text: Research
       - href: spanish.qmd
         text: Spanish
       - href: sewing_blog.qmd
