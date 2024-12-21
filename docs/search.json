@@ -18,7 +18,7 @@
     "href": "environmental_experience.html",
     "title": "Research",
     "section": "",
-    "text": "I am a research assistant in the Anderegg Landscape Ecophysiology And Function (LEAF) Lab at UCSB. I am currently helping with a project quantifying the phsyiological impacts of prescribed fire on oak trees. I also am conducting a personal research project on the impact of bark beetles on varietal oak woodlands after fire events.\n\n\n\n\n\n\n\n\n\n\n\n\nbark_beetles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "I am a research assistant at UCSB, working in both the Anderegg Landscape Ecophysiology and Function (LEAF) Lab and the D’Antonio Vegetation Lab.The projects I am currently involved in focus on quantifying the physiological effects of prescribed fire on oak trees and identifying potential drivers of vegetation change in Mediterranean ecosystems. In addition to this work, I am conducting a personal research project examining the impact of bark beetles on oak woodlands after fire events.\n\n\n\n\n\n\n\n\n\n\n\n\nbark_beetles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nveglab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/personal_sewing.html",
@@ -75,5 +75,12 @@
     "title": "lab",
     "section": "",
     "text": "This is info about my lab work"
+  },
+  {
+    "objectID": "research_posts/veglab.html",
+    "href": "research_posts/veglab.html",
+    "title": "veglab",
+    "section": "",
+    "text": "this is my restoration ecology work"
   }
 ]
