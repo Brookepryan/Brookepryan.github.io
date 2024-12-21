@@ -1,38 +1,12 @@
 ---
 title: "Research"
-filters:
-   - lightbox
-lightbox: auto
+listing: 
+  contents: research_posts # all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
 ---
 
 I am a research assistant in the Anderegg Landscape Ecophysiology And Function (LEAF) Lab at UCSB. I am currently helping with a project quantifying the phsyiological impacts of prescribed fire on oak trees. I also am conducting a personal research project on the impact of bark beetles on varietal oak woodlands after fire events.
 
-::: {layout="[[1, 1, 1], [1, 1], [1, 1, 1]]"}
-
-![](media/sb_camping.jpeg){group="ENVS"
-description="Camping in the mountains of Santa Barbara"}
-
-![](media/santa_cruz.jpeg){group="ENVS"
-description="Hiking on Santa Cruz Island"}
-
-![](media/portugal.jpeg){group="ENVS"
-description="Lagos, Portugal"}
-
-![](media/new_zealand.jpeg){group="ENVS"
-description="Halfway up Mt. Armstrong, New Zealand"}
-
-![](media/sheep.jpeg){group="ENVS"
-description="Sheep at Wānaka, New Zealand"}
-
-![](media/glacier.jpeg){group="ENVS"
-description="Glacier at the top of Mt. Armstrong, New Zealand"}
-
-![](media/peak.jpeg){group="ENVS"
-description="Mountain Peak, New Zealand"}
-
-
-![](media/hike.jpeg){group="ENVS"
-description="hiking, New Zealand"}
-
-:::
 

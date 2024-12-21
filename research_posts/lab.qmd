@@ -1,0 +1,6 @@
+---
+title: "lab"
+format: html
+---
+
+This is info about my lab work

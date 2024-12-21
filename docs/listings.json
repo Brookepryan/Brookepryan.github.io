@@ -5,5 +5,11 @@
       "/posts/personal_sewing.html",
       "/posts/example_post.html"
     ]
+  },
+  {
+    "listing": "/environmental_experience.html",
+    "items": [
+      "/research_posts/bark_beetles.html"
+    ]
   }
 ]
