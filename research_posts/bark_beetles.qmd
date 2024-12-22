@@ -2,7 +2,7 @@
 title: "Impact of Bark and Ambrosia Beetles on Varietal Oak Woodlands After Fire Events"
 description: "Monarthrum spp. and Pseudopityophthorus spp. beetle populations significantly influence forest health, and a deeper understanding of their relationship with fire is essential for developing safe and effective forest management techniques."
 categories: 
-  - Personal Project
+  - Personal Projects
 image: research_photos/bbpreview.jpeg
 filters: 
   - lightbox
