@@ -7,4 +7,9 @@ filters:
 lightbox: auto
 ---
 
+
+![](research_photos/leafpic.jpeg){group="first" 
+description="Collecting branches from post-burn trees to measure leaf and stem hydraulic conductivity. Sedgwick Reserve, July 2024"}
+
+
 This is info about my lab work
