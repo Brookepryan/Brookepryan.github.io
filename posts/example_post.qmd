@@ -1,5 +1,7 @@
 ---
 title: "Professional Experience"
+categories:
+  - Professional Experience
 image: sewing_images/new_preview.jpeg
 description: A history of my previous sewing positions
 ---
