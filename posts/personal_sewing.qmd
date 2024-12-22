@@ -1,6 +1,8 @@
 ---
 title: "Sustainable Swimwear"
 description: "Eco-friendly swimwear, designed and crafted by me"
+categories:
+  - Swimwear
 image: sewing_images/swim_preview2.jpeg
 filters: 
   - lightbox

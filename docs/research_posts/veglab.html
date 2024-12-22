@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Identifying factors influencing vegetation changes in Mediterranean ecosystems">
 
-<title>veglab</title>
+<title>Restoration Ecology</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,8 +118,16 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">veglab</h1>
-                      </div>
+      <h1 class="title">Restoration Ecology</h1>
+                  <div>
+        <div class="description">
+          Identifying factors influencing vegetation changes in Mediterranean ecosystems
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Assisting On</div>
+              </div>
+                  </div>
   </div>
     
   
@@ -140,9 +152,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>this is my restoration ecology work</p>
+<p>I assist researchers in Carla D’Antonio’s VegLab at UCSB on a project identifying factors influencing vegetation changes in Mediterranean ecosystems. I perform field work measuring plant growth, and soil moisture content, and photosynthetically active radiation (PAR). I also contribute to data inputting and organization of the collected data.</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[1, 1]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="research_photos/piru1.jpeg" class="lightbox" data-gallery="first" data-glightbox="description: .lightbox-desc-1;"><img src="research_photos/piru1.jpeg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="research_photos/piru2.jpeg" class="lightbox" data-gallery="first" data-glightbox="description: .lightbox-desc-2;"><img src="research_photos/piru2.jpeg" class="img-fluid"></a></p>
+</div>
+</div>
+</div>
+<p><span style="font-size: 0.8em; color: #5A8045;">Lake Piru Research Site, June 2024</span></p>
 
 
+<div class="hidden" aria-hidden="true">
+<div class="glightbox-desc lightbox-desc-1">
+<p>Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024.</p>
+</div>
+<div class="glightbox-desc lightbox-desc-2">
+<p>Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024.</p>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,6 +597,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
