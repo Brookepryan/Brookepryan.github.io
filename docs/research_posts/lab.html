@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -146,10 +149,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="research_photos/leafpic.jpeg" class="img-fluid" data-group="first" data-description="Collecting branches from post-burn trees to measure leaf and stem hydraulic conductivity. Sedgwick Reserve, July 2024"> <span style="font-size: 0.8em; color: #5A8045;">Sedgwick Reserve, July 2024</span></p>
+<p><a href="research_photos/leafpic.jpeg" class="lightbox" data-gallery="first" data-glightbox="description: .lightbox-desc-1;"><img src="research_photos/leafpic.jpeg" class="img-fluid"></a></p>
+<p><span style="font-size: 0.8em; color: #5A8045;">Sedgwick Reserve, July 2024</span></p>
 <p>I work with Dr.&nbsp;Lee Anderegg’s Landscape Ecophysiology lab on a project quantifying the Physiological Effects of Prescribed Fire on Oak Trees. This research takes place at Sedgwick Reserve, where I assist in collecting branch samples and measuring leaf and stem conductance, minimum stomatal conductance, and thermal vulnerability curves. Additionally, I help input, organize, and analyze the data collected during the research.</p>
 
 
+<div class="hidden" aria-hidden="true">
+<div class="glightbox-desc lightbox-desc-1">
+<p>Collecting branches from post-burn trees to measure leaf and stem hydraulic conductivity. Sedgwick Reserve, July 2024</p>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -570,6 +579,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
