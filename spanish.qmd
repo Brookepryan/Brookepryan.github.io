@@ -1,8 +1,6 @@
 ---
 title: "Spanish"
 subtitle: "Feel free to toggle between languages while viewing this page!"
-filter:
-  - lightbox
 lightbox: auto
 ---
 

@@ -11,15 +11,15 @@ As the threat of wildfires continues to grow, many are turning to Indigenous pra
 
 To explore this, I am studying blue oak and coast live oak species following prescribed burns at Sedgwick Reserve, focusing on bark and ambrosia beetles species belonging to  Monarthrum and Pseudopityophthorus genera. My approach combines visual surveys and pheromone trapping to quantify changes in beetle populations. This research aims to better understand how these beetles should be managed in fire-prone ecosystems.  
 
-::: {layout="[1, 1, 1]"}
-![](research_photos/blue1.jpeg){group="first" 
+::: {layout="[[1, 1], [1]]"}
+
+![](research_photos/bbpreview.jpeg){group="first" 
 description="Bark beetle entry holes + galleries on a blue oak. Sedgwick Reserve, Dec 2024."}
 
 ![](research_photos/coaststain.jpeg){group="first"
 description="Bark beetle entry hole on a coast live oak accompanied by staining from fungus. Sedgwick Reserve, Nov 2024."}
 
-![](research_photos/bbpreview.jpeg){group="first"
+![](research_photos/blue1.jpeg){group="first"
 description="Bark Beetle entry holes in a blue oak accompanied by fungus. Sedgwick Reserve, Dec 2024."}
 
 :::
-

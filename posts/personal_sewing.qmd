@@ -2,8 +2,6 @@
 title: "Sustainable Swimwear"
 description: "Eco-friendly swimwear, designed and crafted by me"
 image: sewing_images/swim_preview2.jpeg
-filters: 
-  - lightbox
 lightbox: auto
 ---
 I designed and crafted two styles of slow-fashion, athletic swimwear: a one-piece swimsuit and a two piece bikini. Both items are reversible (brown and black), seamless, and extremely comfortable. I designed the items to be long-lasting, which I feel is one of the most important qualities for sustainable clothing. 
