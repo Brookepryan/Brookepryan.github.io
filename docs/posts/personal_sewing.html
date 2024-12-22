@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -157,13 +157,13 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout="[1, 1, 1]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/grass_one_piece.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="onepiece"><img src="sewing_images/grass_one_piece.jpeg" class="img-fluid"></a></p>
+<p><a href="sewing_images/grass_one_piece.jpeg" class="lightbox" data-gallery="onepiece" data-glightbox="description: .lightbox-desc-1;"><img src="sewing_images/grass_one_piece.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/one_piece.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-2;" data-gallery="onepiece"><img src="sewing_images/one_piece.jpeg" class="img-fluid"></a></p>
+<p><a href="sewing_images/one_piece.jpeg" class="lightbox" data-gallery="onepiece" data-glightbox="description: .lightbox-desc-2;"><img src="sewing_images/one_piece.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/swimwear_preview.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-3;" data-gallery="onepiece"><img src="sewing_images/swimwear_preview.jpeg" class="img-fluid"></a></p>
+<p><a href="sewing_images/swimwear_preview.jpeg" class="lightbox" data-gallery="onepiece" data-glightbox="description: .lightbox-desc-3;"><img src="sewing_images/swimwear_preview.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -174,10 +174,10 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-panel" data-layout="[1, 1, 1]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/grass_bikini.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-4;" data-gallery="bikini"><img src="sewing_images/grass_bikini.jpeg" class="img-fluid"></a></p>
+<p><a href="sewing_images/grass_bikini.jpeg" class="lightbox" data-gallery="bikini" data-glightbox="description: .lightbox-desc-4;"><img src="sewing_images/grass_bikini.jpeg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><a href="sewing_images/side_view.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-5;" data-gallery="bikini"><img src="sewing_images/side_view.jpeg" class="img-fluid"></a></p>
+<p><a href="sewing_images/side_view.jpeg" class="lightbox" data-gallery="bikini" data-glightbox="description: .lightbox-desc-5;"><img src="sewing_images/side_view.jpeg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -284,8 +284,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -396,7 +394,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -623,7 +620,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","closeEffect":"zoom","loop":false,"descPosition":"bottom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
 (function() {
   let previousOnload = window.onload;
   window.onload = () => {

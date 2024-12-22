@@ -1,17 +1,17 @@
 [
   {
-    "listing": "/sewing_blog.html",
-    "items": [
-      "/posts/personal_sewing.html",
-      "/posts/example_post.html"
-    ]
-  },
-  {
     "listing": "/environmental_experience.html",
     "items": [
       "/research_posts/bark_beetles.html",
       "/research_posts/lab.html",
       "/research_posts/veglab.html"
+    ]
+  },
+  {
+    "listing": "/sewing_blog.html",
+    "items": [
+      "/posts/personal_sewing.html",
+      "/posts/example_post.html"
     ]
   }
 ]
