@@ -1,6 +1,25 @@
 ---
-title: "bark_beetles"
-format: html
+title: "Impact of Bark and Ambrosia Beetles on Varietal Oak Woodlands After Fire Events"
+description: "Monarthrum spp. and Pseudopityophthorus spp. beetle populations significantly influence forest health, and a deeper understanding of their relationship with fire is essential for developing safe and effective forest management techniques."
+image: research_photos/bbpreview.jpeg
+filters: 
+  - lightbox
+lightbox: auto
 ---
 
-This is my bark beetle project
+As the threat of wildfires continues to grow, many are turning to Indigenous practices of using prescribed burns to prevent megafires and promote forest health. While prescribed burns offer numerous ecological and cultural benefits, the presence of bark and ambrosia beetles can complicate these outcomes. These insects infest trees by boring beneath the bark, creating spaces to grow and reproduce. In the process, they introduce various fungi into the trees' sapwood, which can sometimes lead to tree mortality. Since bark and ambrosia beetles tend to target stressed or dying trees, I am investigating whether prescribed burns in infested areas might inadvertently boost beetle populations, potentially increasing tree mortality.
+
+To explore this, I am studying blue oak and coast live oak species following prescribed burns at Sedgwick Reserve, focusing on bark and ambrosia beetles species belonging to  Monarthrum and Pseudopityophthorus genera. My approach combines visual surveys and pheromone trapping to quantify changes in beetle populations. This research aims to better understand how these beetles should be managed in fire-prone ecosystems.  
+
+::: {layout="[1, 1, 1]"}
+![](research_photos/blue1.jpeg){group="first" 
+description="Bark beetle entry holes + galleries on a blue oak. Sedgwick Reserve, Dec 2024."}
+
+![](research_photos/coaststain.jpeg){group="first"
+description="Bark beetle entry hole on a coast live oak accompanied by staining from fungus (unknown). Sedgwick Reserve, Nov 2024."}
+
+![](research_photos/bbpreview.jpeg){group="first"
+description="Bark Beetle entry holes ina blue oak accompanied by fungus (unknown). Sedgwick Reserve, Dec 2024."}
+
+:::
+
