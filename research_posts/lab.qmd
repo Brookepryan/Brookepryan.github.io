@@ -1,6 +1,8 @@
 ---
 title: "Physiological Effects of Prescribed Fire on Oak Trees"
 description: "Prescribed burning can affect a tree's water transport through its stem and leaves, the rate of water loss through its stomata and cuticle when the stomata are closed, and tempurature variability."
+categories:
+  - Assisting On
 image: research_photos/leafpic.jpeg
 filters: 
   - lightbox
