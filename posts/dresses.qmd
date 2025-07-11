@@ -1,5 +1,14 @@
 ---
-title: "dresses"
-format: html
+title: "Costume Design"
+description: "Dance Costumes for UCSB's 2025 Spring Dance"
+categories:
+  - Design
+image: sewing_images/IMG_1005.JPG
+filters: 
+  - lightbox
+lightbox: auto
 ---
+I designed and crafted two styles of slow-fashion, athletic swimwear: a one-piece swimsuit and a two piece bikini. Both items are reversible (brown and black), seamless, and extremely comfortable. I designed the items to be long-lasting, which I feel is one of the most important qualities for sustainable clothing. 
+
+
 
