@@ -19,9 +19,11 @@ To explore this, I am studying blue oak and coast live oak species following pre
 description="Bark beetle entry holes + galleries on a blue oak. Sedgwick Reserve, Dec 2024."}
 
 ![](research_photos/coaststain.jpeg){group="first"
-description="Bark beetle entry hole on a coast live oak accompanied by staining from fungus. Sedgwick Reserve, Nov 2024."}
+description="UCSB Undergraduate Research Colloquium, May 2025
+“Impact of Monarthrum and Pseudopityophthorus Bark Beetles on Varietal Oak Woodlands After Fire Events”
+B Ryan"}
 
-![](research_photos/blue1.jpeg){group="first"
+![](research_photos/urca_poster.jpg){group="first"
 description="Bark Beetle entry holes in a blue oak accompanied by fungus. Sedgwick Reserve, Dec 2024."}
 
 :::
