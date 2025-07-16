@@ -1,9 +1,9 @@
 ---
 title: "Brooke Ryan"
 image: media/newpic.jpg
-2toc: false
+toc: false
 about: 
-  template: trestles
+  template: solana
   image-shape: rectangle
   image-width: 30em
   links:
