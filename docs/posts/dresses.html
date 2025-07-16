@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Dance Costumes for UCSB’s 2025 Spring Dance">
+<meta name="description" content="Dance Costumes for UCSB’s Afterlight Concert">
 
 <title>Costume Design</title>
 <style>
@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,11 +117,11 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-page-left">
       <h1 class="title">Costume Design</h1>
                   <div>
         <div class="description">
-          Dance Costumes for UCSB’s 2025 Spring Dance
+          Dance Costumes for UCSB’s Afterlight Concert
         </div>
       </div>
                           <div class="quarto-categories">
@@ -128,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -139,19 +142,35 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#piece-1-we-were-light" id="toc-piece-1-we-were-light" class="nav-link active" data-scroll-target="#piece-1-we-were-light">Piece 1: We Were Light</a>
+  <ul class="collapse">
+  <li><a href="#this-dance-was-a-whimsical-and" id="toc-this-dance-was-a-whimsical-and" class="nav-link" data-scroll-target="#this-dance-was-a-whimsical-and">This dance was a whimsical and</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
-<p>I designed and crafted two styles of slow-fashion, athletic swimwear: a one-piece swimsuit and a two piece bikini. Both items are reversible (brown and black), seamless, and extremely comfortable. I designed the items to be long-lasting, which I feel is one of the most important qualities for sustainable clothing.</p>
+<p>Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB’s 2025 Spring Dance Concert : Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality.</p>
+<section id="piece-1-we-were-light" class="level1">
+<h1>Piece 1: We Were Light</h1>
+<section id="this-dance-was-a-whimsical-and" class="level3">
+<h3 class="anchored" data-anchor-id="this-dance-was-a-whimsical-and">This dance was a whimsical and</h3>
+<p><a href="sewing_images/IMG_1053.JPG" class="lightbox" data-gallery="first"><img src="sewing_images/IMG_1053.JPG" class="img-fluid"></a></p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -572,6 +591,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

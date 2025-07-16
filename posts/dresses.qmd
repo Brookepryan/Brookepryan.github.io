@@ -1,6 +1,6 @@
 ---
 title: "Costume Design"
-description: "Dance Costumes for UCSB's 2025 Spring Dance"
+description: "Dance Costumes for UCSB's Afterlight Concert"
 categories:
   - Design
 image: sewing_images/IMG_1005.JPG
@@ -8,7 +8,14 @@ filters:
   - lightbox
 lightbox: auto
 ---
-I designed and crafted two styles of slow-fashion, athletic swimwear: a one-piece swimsuit and a two piece bikini. Both items are reversible (brown and black), seamless, and extremely comfortable. I designed the items to be long-lasting, which I feel is one of the most important qualities for sustainable clothing. 
+Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert : Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality. 
+
+# Piece 1: We Were Light
+### This dance was a whimsical and 
+
+
+
+![](sewing_images/IMG_1053.JPG){group="first"}
 
 
 
