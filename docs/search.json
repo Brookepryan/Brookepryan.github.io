@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Brooke Ryan",
     "section": "",
-    "text": "Hi there! My name is Brooke and I am a fourth-year undergraduate student at UCSB, double majoring in Environmental Studies and Spanish."
+    "text": "Hi there! My name is Brooke and I recently graduated from the University of California, Santa Barbara with a double major in Environmental Studies and Spanish. I love bugs, being outdoors, sewing, design, and traveling."
   },
   {
     "objectID": "posts/example_post.html",
@@ -103,5 +103,19 @@
     "title": "Costume Design",
     "section": "Piece 1",
     "text": "Piece 1\nWe Were Light\nDesign Statement:\nThis dance was a whimsical piece centered around nostalgia toward one’s childhood and how relationships progress overtime. With themes of realness, rawness, and humanity, this piece honored the dancers not only as performers, but as individual artists with their own stories to tell.\nI designed large, billowing skirts that accentuate the playfulness on the choerography. The costumes are primarily white to symbolize innocence and youth, however, each of the seven dancers had a unique color accent on their top and on the bottom-most layer of their skirt. As each dancer moved across the stage, their skirts moved with them, flashing a pfun pop of color and personailty. When the dancers stood together, it formed a color pattern reminiscent of a golden sunset palate, reflecting the sun setting on their childhood and the transition into adulthood and independance."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Brooke Ryan",
+    "section": "",
+    "text": "Hi there! My name is Brooke and I recently graduated from the University of California, Santa Barbara with a double major in Environmental Studies and Spanish. I love bugs, being outdoors, sewing, design, and traveling."
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Brooke Ryan",
+    "section": "Currently",
+    "text": "Currently\nI am working as a research assistant with Lee Anderegg’s Landscape Ecophysiology and Function (LEAF) Lab at UCSB. I plan to continue my career in research by getting my PhD in Entomology!"
   }
 ]
