@@ -11,11 +11,20 @@ lightbox: auto
 Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert : Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality. 
 
 # Piece 1: We Were Light
-### This dance was a whimsical and 
 
+This dance was a whimsical piece centered around the concepts of relationships and storyteling. With themes of realness, rawness, and humanity, the performance honored the dancers not only as performers, but as individual artists with their own stories to tell.
 
+::: {layout="[[1, 1], [1]]"}
+
+![](sewing_images/spring-135.JPG){group="first"}
 
 ![](sewing_images/IMG_1053.JPG){group="first"}
+
+![](sewing_images/spring-100.JPG){group="first"}
+
+
+
+
 
 
 
