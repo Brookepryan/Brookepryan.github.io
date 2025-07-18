@@ -5,7 +5,7 @@ toc: false
 about: 
   template: solana
   image-shape: round
-  image-width: 25em
+  image-width: 35em
   links:
     - text: GitHub
       href: https://github.com/Brookepryan
