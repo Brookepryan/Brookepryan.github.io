@@ -4,7 +4,7 @@ image: media/newpic.jpg
 toc: false
 about: 
   template: solana
-  image-shape: rectangle
+  image-shape: round
   image-width: 25em
   links:
     - text: GitHub
@@ -13,10 +13,18 @@ about:
       href: mailto:brookeryan@ucsb.edu
     - text: LinkedIn
       href: https://www.linkedin.com/in/brooke-ryan-92366a256/
+    - text: INaturalist
+      href: https://www.inaturalist.org/people/brookesbugs
+      
 ---
+
+***
+
 #
 ## About Me
 Hi there! My name is Brooke and I recently graduated from the University of California, Santa Barbara with a double major in Environmental Studies and Spanish. I love bugs, being outdoors, sewing, design, and traveling.
+
+-------
 
 ## Currently
 I am working as a research assistant with Lee Anderegg's Landscape Ecophysiology and Function (LEAF) Lab at UCSB. I plan to continue my career in research by getting my PhD in Entomology!
