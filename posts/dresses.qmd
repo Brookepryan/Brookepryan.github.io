@@ -8,7 +8,7 @@ filters:
   - lightbox
 lightbox: auto
 ---
-Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert : Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality. 
+Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert: Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality. 
 
 ## Piece 1
 We Were Light
@@ -19,9 +19,17 @@ This dance was a whimsical piece centered around nostalgia toward one's childhoo
 
 I designed large, billowing skirts that accentuate the playfulness on the choerography. The costumes are primarily white to symbolize innocence and youth, however, each of the seven dancers had a unique color accent on their top and on the bottom-most layer of their skirt. As each dancer moved across the stage, their skirts moved with them, flashing a pfun pop of color and personailty. When the dancers stood together, it formed a color pattern reminiscent of a golden sunset palate, reflecting the sun setting on their childhood and the transition into adulthood and independance.
 
+```{r}
+library(magick)
 
+# Read and resize image
+img <- image_read("sewing_images/IMG_3580.jpeg")           # adjust path as needed
+img_small <- image_scale(img, "1200x1200")       # scale to max width/height 1200px
+image_write(img_small, "sewing_images/IMG_3580_small.jpeg", quality = 85) # save smaller version
 
-![](sewing_images/IMG_3580.jpeg){description="Final rendering of costume design for We Were Light"}
+```
+
+![](sewing_images/IMG_3580_small.jpeg){description="Final rendering of costume design for We Were Light"}
 
 ::: {layout="[[1, 1, 1], [1, 1, 1]]"}
 

@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -159,14 +193,26 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB’s 2025 Spring Dance Concert : Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality.</p>
+<p>Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB’s 2025 Spring Dance Concert: Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality.</p>
 <section id="piece-1" class="level2">
 <h2 class="anchored" data-anchor-id="piece-1">Piece 1</h2>
 <p>We Were Light</p>
 <p>Design Statement:</p>
 <p>This dance was a whimsical piece centered around nostalgia toward one’s childhood and how relationships progress overtime. With themes of realness, rawness, and humanity, this piece honored the dancers not only as performers, but as individual artists with their own stories to tell.</p>
 <p>I designed large, billowing skirts that accentuate the playfulness on the choerography. The costumes are primarily white to symbolize innocence and youth, however, each of the seven dancers had a unique color accent on their top and on the bottom-most layer of their skirt. As each dancer moved across the stage, their skirts moved with them, flashing a pfun pop of color and personailty. When the dancers stood together, it formed a color pattern reminiscent of a golden sunset palate, reflecting the sun setting on their childhood and the transition into adulthood and independance.</p>
-<p><a href="sewing_images/IMG_3580.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="quarto-lightbox-gallery-1"><img src="sewing_images/IMG_3580.jpeg" class="img-fluid"></a></p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(magick)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Linking to ImageMagick 6.9.12.93
+Enabled features: cairo, fontconfig, freetype, heic, lcms, pango, raw, rsvg, webp
+Disabled features: fftw, ghostscript, x11</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Read and resize image</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>img <span class="ot">&lt;-</span> <span class="fu">image_read</span>(<span class="st">"sewing_images/IMG_3580.jpeg"</span>)           <span class="co"># adjust path as needed</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>img_small <span class="ot">&lt;-</span> <span class="fu">image_scale</span>(img, <span class="st">"1200x1200"</span>)       <span class="co"># scale to max width/height 1200px</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="fu">image_write</span>(img_small, <span class="st">"sewing_images/IMG_3580_small.jpeg"</span>, <span class="at">quality =</span> <span class="dv">85</span>) <span class="co"># save smaller version</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><a href="sewing_images/IMG_3580_small.jpeg" class="lightbox" data-glightbox="description: .lightbox-desc-1;" data-gallery="quarto-lightbox-gallery-1"><img src="sewing_images/IMG_3580_small.jpeg" class="img-fluid"></a></p>
 <div>
 
 </div>
