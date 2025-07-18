@@ -1,0 +1,8 @@
+---
+title: "Arachnida"
+description: "Spiders, scorpions, and more!"
+image: bug_pics/arach_pics
+filters: 
+  - lightbox
+lightbox: auto
+---

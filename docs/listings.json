@@ -14,5 +14,12 @@
       "/posts/personal_sewing.html",
       "/posts/example_post.html"
     ]
+  },
+  {
+    "listing": "/bug_blog.html",
+    "items": [
+      "/bug_posts/insecta.html",
+      "/bug_posts/arachnids.html"
+    ]
   }
 ]

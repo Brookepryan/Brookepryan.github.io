@@ -1,0 +1,8 @@
+---
+title: "Insecta"
+description: "Beetles, Bees, Butterflies - you know the jist"
+image: bug_pics/butterflies.jpg
+filters: 
+  - lightbox
+lightbox: auto
+---
