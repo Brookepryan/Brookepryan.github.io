@@ -14,8 +14,8 @@ website:
         text: Spanish
       - href: sewing_blog.qmd
         text: Sewing and Design
-      - href: Invertebrates
-        text: bug_blog.qmd
+      - href: bug_blog.qmg
+        text: Invertebrates
         
 
 format:
