@@ -53,11 +53,11 @@ the costumes in this piece were designed to flow with one another in form, creat
 ::: {layout="[1,1]"}
 
 ![](sewing_images/IMG_3733.jpeg){group="craft"
-description="Draping process for The Point Being Costumes"}
+description="Draping process for the point being costumes"}
 
 
 ![](sewing_images/IMG_3760.jpeg){group="craft"
-description="Draping process for The Point Being Costumes"}
+description="Draping process for the point being costumes"}
 
 :::
 
