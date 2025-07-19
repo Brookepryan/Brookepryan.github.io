@@ -17,7 +17,7 @@ Design Statement:
 
 This dance was a whimsical piece centered around nostalgia toward one's childhood and how relationships progress overtime. With themes of realness, rawness, and humanity, this piece honored the dancers not only as performers, but as individual artists with their own stories to tell.
 
-I designed large, billowing skirts that accentuate the playfulness on the choerography. The costumes are primarily white to symbolize innocence and youth, however, each of the seven dancers had a unique color accent on their top and on the bottom-most layer of their skirt. As each dancer moved across the stage, their skirts moved with them, flashing a pfun pop of color and personailty. When the dancers stood together, it formed a color pattern reminiscent of a golden sunset palate, reflecting the sun setting on their childhood and the transition into adulthood and independance.
+I designed large, billowing skirts that accentuate the playfulness on the choerography. The costumes are primarily white to symbolize innocence and youth, however, each of the seven dancers had a unique color accent on their top and on the bottom-most layer of their skirt. As each dancer moved across the stage, their skirts moved with them, flashing a fun pop of color and personailty. When the dancers stood together, it formed a color pattern reminiscent of a golden sunset palate, reflecting the sun setting on their childhood and the transition into adulthood and independance.
 
 ```{r, include=FALSE}
 library(magick)
