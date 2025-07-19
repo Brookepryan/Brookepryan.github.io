@@ -14,7 +14,7 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/brooke-ryan-92366a256/
     - text: INaturalist
-      href: https://www.inaturalist.org/people/brookesbugs
+      href: https://www.inaturalist.org/people/9085934
       
 ---
 

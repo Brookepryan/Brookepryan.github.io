@@ -8,12 +8,14 @@ filters:
   - lightbox
 lightbox: auto
 ---
-Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert: Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality. 
+
+Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert: Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality.
 
 ## Piece 1
-We Were Light
 
-Design Statement: 
+### We Were Light
+
+Design Statement:
 
 This dance was a whimsical piece centered around nostalgia toward one's childhood and how relationships progress overtime. With themes of realness, rawness, and humanity, this piece honored the dancers not only as performers, but as individual artists with their own stories to tell.
 
@@ -32,7 +34,6 @@ image_write(img_small, "sewing_images/IMG_3580_small.jpeg", quality = 85) # save
 ![](sewing_images/IMG_3580_small.jpeg){description="Final rendering of costume design for We Were Light"}
 
 ::: {layout="[[1, 1, 1], [1, 1, 1]]"}
-
 ![](sewing_images/spring-135.JPG){group="first"}
 
 ![](sewing_images/spring-124.jpg){group="first"}
@@ -44,13 +45,11 @@ image_write(img_small, "sewing_images/IMG_3580_small.jpeg", quality = 85) # save
 ![](sewing_images/spring-129.JPG){group="first"}
 
 ![](sewing_images/spring-75.JPG){group="first"}
-
 :::
 
-
-
 ## Piece 2
-the point being
+
+### the point being
 
 design statement: we were never strangers. its undoing, its endurable. unwrap what you have done and we shall not flinch. this is the ache of being alive and beautiful. this is the unfair proximity to a dream.
 
@@ -59,32 +58,21 @@ the costumes in this piece were designed to flow with one another in form, creat
 ![](sewing_images/img_3591.jpeg){description="Final rendering of costume design for The Point Being"}
 
 ::: {layout="[1,1]"}
+![](sewing_images/IMG_3733.jpeg){group="craft" description="Draping process for the point being costumes"}
 
-![](sewing_images/IMG_3733.jpeg){group="craft"
-description="Draping process for the point being costumes"}
-
-
-![](sewing_images/IMG_3760.jpeg){group="craft"
-description="Draping process for the point being costumes"}
-
+![](sewing_images/IMG_3760.jpeg){group="craft" description="Draping process for the point being costumes"}
 :::
 
-
 ::: {layout="[[1,1,1], [1,1,1]]"}
+![](sewing_images/spring-252.jpg){group="tpb"}
 
 ![](sewing_images/spring-293.jpg){group="tpb"}
 
 ![](sewing_images/spring-260.jpg){group="tpb"}
-
-![](sewing_images/spring-252.jpg){group="tpb"}
 
 ![](sewing_images/spring-233.jpg){group="tpb"}
 
 ![](sewing_images/spring-244.jpg){group="tpb"}
 
 ![](sewing_images/spring-243.jpg){group="tpb"}
-
-
 :::
-
-
