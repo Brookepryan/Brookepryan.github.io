@@ -6,3 +6,38 @@ filters:
   - lightbox
 lightbox: auto
 ---
+
+Insecta is the largest class in the entire animal kingdom, with approximately 30 recognized orders and nearly 1 million described species. Scientists estimate there may be as many as 10 million insect species on Earth. 
+
+----
+
+## Coleoptera (Beetles)
+
+----
+
+# #Hymenoptera (Bees, Wasps, & Ants)
+
+----
+
+## Lepidoptera (Butterflies & Months )
+
+----
+
+## Diptera (Flies)
+
+----
+
+## Hemiptera (True Bugs)
+
+----
+
+## Orthoptera (Grasshopers, Crickets, and Katydids)
+
+----
+
+## Phasmida (Stick Bugs, Timena's)
+
+----
+
+## Raphididae (Snakeflies)
+
