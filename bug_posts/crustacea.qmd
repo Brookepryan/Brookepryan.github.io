@@ -1,0 +1,8 @@
+---
+title: "Crustacea"
+description: "Crabs, Lobsters, Shrimps"
+image: bug_pics/crab_1.jpg
+filters: 
+  - lightbox
+lightbox: auto
+---
