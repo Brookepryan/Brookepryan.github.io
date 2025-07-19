@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/bug_blog.html",
+    "items": [
+      "/bug_posts/arachnids.html",
+      "/bug_posts/crustacea.html",
+      "/bug_posts/insecta.html",
+      "/bug_posts/myriapoda.html"
+    ]
+  },
+  {
     "listing": "/environmental_experience.html",
     "items": [
       "/research_posts/bark_beetles.html",
@@ -13,15 +22,6 @@
       "/posts/dresses.html",
       "/posts/personal_sewing.html",
       "/posts/example_post.html"
-    ]
-  },
-  {
-    "listing": "/bug_blog.html",
-    "items": [
-      "/bug_posts/arachnids.html",
-      "/bug_posts/crustacea.html",
-      "/bug_posts/insecta.html",
-      "/bug_posts/myriapoda.html"
     ]
   }
 ]
