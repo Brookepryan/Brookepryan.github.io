@@ -18,9 +18,9 @@ I know many people don’t share my love for spiders, scorpions, and their eight
 
 ## Araneae (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
 
-![](bug_pics/IMG_2201.jpeg){.lightbox}
-![](bug_pics/IMG_1883.jpeg){.lightbox}
+::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
 
+![](bug_pics/IMG_2201.jpeg){.lightbox}
 
 ![](bug_pics/IMG_1883.jpeg){.lightbox}
 
@@ -29,10 +29,17 @@ I know many people don’t share my love for spiders, scorpions, and their eight
 
 ![](bug_pics/IMG_3999.jpeg){.lightbox}
 
+![](bug_pics/IMG_4506.jpeg){.lightbox}
 
+![](bug_pics/IMG_4505.jpeg){.lightbox}
+
+![](bug_pics/sunspider.png){.lightbox}
+
+:::
 -------
 
 ## Scorpiones (True Scorpions)
+
 
 ![](bug_pics/IMG_1370.jpeg){.lightbox}
 
@@ -45,7 +52,6 @@ I know many people don’t share my love for spiders, scorpions, and their eight
 
 
 ![](bug_pics/IMG_4499.jpeg){.lightbox}
-
 
 
 ------
