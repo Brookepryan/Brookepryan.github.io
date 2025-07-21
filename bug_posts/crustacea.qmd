@@ -1,8 +1,10 @@
 ---
-title: "Crustacea"
-description: "Crabs, Lobsters, Shrimps"
+title: "Other"
+description: "Crustacea, Gastropoda, Myriapoda"
 image: bug_pics/crab_1.jpg
 filters: 
   - lightbox
 lightbox: auto
 ---
+
+

@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -175,18 +178,26 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <section id="araneae-tarantulas-jumping-spiders-orbweavers-widows-etc" class="level2">
 <h2 class="anchored" data-anchor-id="araneae-tarantulas-jumping-spiders-orbweavers-widows-etc">Araneae (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)</h2>
+<p><a href="bug_pics/IMG_2201.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="bug_pics/IMG_2201.jpeg" class="img-fluid"></a> <a href="bug_pics/IMG_1883.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="bug_pics/IMG_1883.jpeg" class="img-fluid"></a></p>
+<p><a href="bug_pics/IMG_1883.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="bug_pics/IMG_1883.jpeg" class="img-fluid"></a></p>
+<p><a href="bug_pics/IMG_3996.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="bug_pics/IMG_3996.jpeg" class="img-fluid"></a></p>
+<p><a href="bug_pics/IMG_3999.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="bug_pics/IMG_3999.jpeg" class="img-fluid"></a></p>
 <hr>
 </section>
 <section id="scorpiones-true-scorpions" class="level2">
 <h2 class="anchored" data-anchor-id="scorpiones-true-scorpions">Scorpiones (True Scorpions)</h2>
+<p><a href="bug_pics/IMG_1370.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="bug_pics/IMG_1370.jpeg" class="img-fluid"></a></p>
 <hr>
 </section>
 <section id="uropygi-whip-scorpions-vinegaroons" class="level2">
 <h2 class="anchored" data-anchor-id="uropygi-whip-scorpions-vinegaroons">Uropygi (Whip Scorpions, Vinegaroons)</h2>
+<p><a href="bug_pics/IMG_4500.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="bug_pics/IMG_4500.jpeg" class="img-fluid"></a></p>
+<p><a href="bug_pics/IMG_4499.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="bug_pics/IMG_4499.jpeg" class="img-fluid"></a></p>
 <hr>
 </section>
 <section id="amblypygi-tailless-whip-scorpions" class="level2">
 <h2 class="anchored" data-anchor-id="amblypygi-tailless-whip-scorpions">Amblypygi (Tailless Whip Scorpions)</h2>
+<p><a href="bug_pics/IMG_4508.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="bug_pics/IMG_4508.jpeg" class="img-fluid"></a></p>
 
 
 </section>
@@ -611,6 +622,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

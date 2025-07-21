@@ -2,9 +2,7 @@
 title: "Arachnida"
 description: "Spiders, scorpions, and more!"
 image: bug_pics/arach_2.jpg
-filters: 
-  - lightbox
-lightbox: auto
+
 ---
 
 I know many people don’t share my love for spiders, scorpions, and their eight-legged kin—and for good reason. Arachnids aren’t just eerie to look at; some have incredibly potent venom and deliver painfully memorable bites. But I’ve found that the more I learned about them, the less afraid I felt and the more fascinated I became. To me, arachnids are among the most advanced and intriguing creatures on Earth. That’s why I’ve added a “Fun Facts” section to kick off this page—so even those with arachnophobia might come to appreciate their so-called enemies just a little more.
@@ -20,16 +18,39 @@ I know many people don’t share my love for spiders, scorpions, and their eight
 
 ## Araneae (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
 
+![](bug_pics/IMG_2201.jpeg){.lightbox}
+![](bug_pics/IMG_1883.jpeg){.lightbox}
+
+
+![](bug_pics/IMG_1883.jpeg){.lightbox}
+
+
+![](bug_pics/IMG_3996.jpeg){.lightbox}
+
+![](bug_pics/IMG_3999.jpeg){.lightbox}
+
+
 -------
 
 ## Scorpiones (True Scorpions)
+
+![](bug_pics/IMG_1370.jpeg){.lightbox}
+
 
 ------
 
 ## Uropygi (Whip Scorpions, Vinegaroons)
 
+![](bug_pics/IMG_4500.jpeg){.lightbox}
+
+
+![](bug_pics/IMG_4499.jpeg){.lightbox}
+
+
+
 ------
 
 ## Amblypygi (Tailless Whip Scorpions)
 
+![](bug_pics/IMG_4508.jpeg){.lightbox}
 
