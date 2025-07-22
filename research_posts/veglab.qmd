@@ -3,9 +3,6 @@ title: "Restoration Ecology"
 description: "Identifying factors influencing vegetation changes in Mediterranean ecosystems"
 categories:
   - Assisting On
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 I assist researchers in Carla D'Antonio's VegLab at UCSB on a project identifying factors influencing vegetation changes in Mediterranean ecosystems. I perform field work measuring plant growth, and soil moisture content, and photosynthetically active radiation (PAR). I also contribute to data inputting and organization of the collected data.
@@ -13,10 +10,10 @@ I assist researchers in Carla D'Antonio's VegLab at UCSB on a project identifyin
 ::: {layout="[1, 1]"}
 
 
-![](research_photos/piru1.jpeg){group="first" 
+![](research_photos/piru1.jpeg){.lightbox data-lightbox="first" 
 description="Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024."}
 
-![](research_photos/piru2.jpeg){group="first" 
+![](research_photos/piru2.jpeg){.lightbox data-lightbox="first" 
 description="Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024."}
 :::
 <span style="font-size: 0.8em; color: #5A8045;">Lake Piru Research Site, June 2024</span>

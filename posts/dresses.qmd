@@ -4,9 +4,6 @@ description: "Dance Costumes for UCSB's Spring Dance 2025"
 categories:
   - Design
 image: sewing_images/IMG_1005.JPG
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 Over the course of a quarter at UCSB, I collaborated with a design team to create costumes for two dance pieces in UCSB's 2025 Spring Dance Concert: Afterlight. I worked closesly with the lighting designer and choreographer of each piece to make their visions become a reality.
@@ -31,20 +28,20 @@ image_write(img_small, "sewing_images/IMG_3580_small.jpeg", quality = 85) # save
 
 ```
 
-![](sewing_images/IMG_3580_small.jpeg){description="Final rendering of costume design for We Were Light"}
+![](sewing_images/IMG_3580_small.jpeg){.lightbox description="Final rendering of costume design for We Were Light"}
 
 ::: {layout="[[1, 1, 1], [1, 1, 1]]"}
-![](sewing_images/spring-135.JPG){group="first"}
+![](sewing_images/spring-135.JPG){.lightbox data-lightbox="first"}
 
-![](sewing_images/spring-124.jpg){group="first"}
+![](sewing_images/spring-124.jpg){.lightbox data-lightbox="first"}
 
-![](sewing_images/spring-67.jpg){group="first"}
+![](sewing_images/spring-67.jpg){.lightbox data-lightbox="first"}
 
-![](sewing_images/spring-60.jpg){group="first"}
+![](sewing_images/spring-60.jpg){.lightbox data-lightbox="first"}
 
-![](sewing_images/spring-129.JPG){group="first"}
+![](sewing_images/spring-129.JPG){.lightbox data-lightbox=first"}
 
-![](sewing_images/spring-75.JPG){group="first"}
+![](sewing_images/spring-75.JPG){.lightbox data-lightbox="first"}
 :::
 
 ## Piece 2
@@ -55,24 +52,27 @@ design statement: we were never strangers. its undoing, its endurable. unwrap wh
 
 the costumes in this piece were designed to flow with one another in form, creating one fluid piece as the dancers interacted. this reflects how humans are ultimately all the same on the inside, bound together by emotion. in sharing and confronting this raw, aching emotion, we are able to connect with one another. the sheerness of the fabric symmbolizes the vulnerability that accompanies what it means to love and be loved, while red thread wraps around the dancer's torso, wrists, and ankles to represent the blood and pain that it requires to be truly known.
 
-![](sewing_images/img_3591.jpeg){description="Final rendering of costume design for The Point Being"}
+![](sewing_images/img_3591.jpeg){.lightbox data-lightbox="group0"
+description="Final rendering of costume design for The Point Being"}
 
 ::: {layout="[1,1]"}
-![](sewing_images/IMG_3733.jpeg){group="craft" description="Draping process for the point being costumes"}
+![](sewing_images/IMG_3733.jpeg){.lightbox data-lightbox="craft"
+description="Draping process for the point being costumes"}
 
-![](sewing_images/IMG_3760.jpeg){group="craft" description="Draping process for the point being costumes"}
+![](sewing_images/IMG_3760.jpeg){.lightbox data-lightbox="craft"
+description="Draping process for the point being costumes"}
 :::
 
 ::: {layout="[[1,1,1], [1,1,1]]"}
-![](sewing_images/spring-252.jpg){group="tpb"}
+![](sewing_images/spring-252.jpg){.lightbox data-lightbox=tpb"}
 
-![](sewing_images/spring-293.jpg){group="tpb"}
+![](sewing_images/spring-293.jpg){.lightbox data-lightbox="tpb"}
 
-![](sewing_images/spring-260.jpg){group="tpb"}
+![](sewing_images/spring-260.jpg){.lightbox data-lightbox="tpb"}
 
-![](sewing_images/spring-233.jpg){group="tpb"}
+![](sewing_images/spring-233.jpg){.lightbox data-lightbox="tpb"}
 
-![](sewing_images/spring-244.jpg){group="tpb"}
+![](sewing_images/spring-244.jpg){.lightbox data-lightbox="tpb"}
 
-![](sewing_images/spring-243.jpg){group="tpb"}
+![](sewing_images/spring-243.jpg){.lightbox data-lightbox="tpb"}
 :::

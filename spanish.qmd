@@ -1,9 +1,6 @@
 ---
 title: "Spanish"
 subtitle: "Feel free to toggle between languages while viewing this page!"
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 <script>
@@ -59,20 +56,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ::: {layout="[[1, 1], [1, 1, 1]]"}
 
-![](media/palace.jpeg){group="madrid"
+![](media/palace.jpeg){.lightbox data-lightbox="madrid"
 description="Palacio Real de Madrid"}
 
-![](media/el_retiro.jpeg){group="madrid"
+![](media/el_retiro.jpeg){.lightbox data-lightbox="madrid"
 description="Parque de El Retiro"}
 
-![](media/real_jardin.jpeg){group="madrid"
+![](media/real_jardin.jpeg){.lightbox data-lightbox="madrid"
 description="Real Jardín Botánico"}
 
 
-![](media/embajadores.jpeg){group="madrid"
+![](media/embajadores.jpeg){.lightbox data-lightbox="madrid"
 description="Embajadores, Madrid"}
 
-![](media/madrid_sheep.jpeg){group="madrid"
+![](media/madrid_sheep.jpeg){.lightbox data-lightbox="madrid"
 description="Tanshumance Festival, Madrid"}
 
 
