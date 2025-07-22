@@ -40,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-6711b96bda6dea3ab5b32c514e2917f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -150,8 +153,52 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p>Here is a random collection of invertebrates is random taxa that I had the pleasure of meeting recently:</p>
+<p><em>Click on the images for tags and identifications!</em></p>
+<hr>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[[1, 1], [1, 1, 1]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="bug_pics/crab_1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" data-glightbox="description: .lightbox-desc-1;"><img src="bug_pics/crab_1.jpg" class="img-fluid" data-lightbox="group1"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="bug_pics/millipede_1.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" data-glightbox="description: .lightbox-desc-2;"><img src="bug_pics/millipede_1.jpg" class="img-fluid" data-lightbox="group1"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="bug_pics/IMG_4322.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" data-glightbox="description: .lightbox-desc-3;"><img src="bug_pics/IMG_4322.jpeg" class="img-fluid" data-lightbox="group1"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="bug_pics/snail.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" data-glightbox="description: .lightbox-desc-4;"><img src="bug_pics/snail.png" class="img-fluid" data-lightbox="group1"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><a href="bug_pics/IMG_4318.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" data-glightbox="description: .lightbox-desc-5;"><img src="bug_pics/IMG_4318.jpeg" class="img-fluid" data-lightbox="group1"></a></p>
+</div>
+</div>
+</div>
 
 
+<div class="hidden" aria-hidden="true">
+<div class="glightbox-desc lightbox-desc-1">
+<p>Phylum Arthropoda, Class Malacostraca, Order Decapoda<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan</p>
+</div>
+<div class="glightbox-desc lightbox-desc-2">
+<p>Phylum Arthopoda, Class Diploda, Order Polydesmida, Family Xystodesmidae, <em>Harpaphe haydeniana</em> (Yellow-spotted Millipede)<br>CA: Monterey Co<br>Big Sur<br>19 April 2025<br>B. Ryan</p>
+</div>
+<div class="glightbox-desc lightbox-desc-3">
+<p>Phylum Annelida<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan</p>
+</div>
+<div class="glightbox-desc lightbox-desc-4">
+<p>Phylum Mollusca, Class Gastropoda, Order Trochida, Family Tegulidae <em>Norrisia norrisii</em> (Norris’s Top Snail)<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan</p>
+</div>
+<div class="glightbox-desc lightbox-desc-5">
+<p>Phylum Mollusca, Class Cephalopoda, Order Octopoda, Family Octopodidae(Typical Octopuses)<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan</p>
+</div>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -572,6 +619,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

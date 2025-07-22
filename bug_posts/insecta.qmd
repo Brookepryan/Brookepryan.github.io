@@ -83,13 +83,13 @@ description="*Coenonympha california* (Common Ringlet)<br>CA: Sta Barbara Co<br>
 
 ::: {layout="[1, 1, 1]"}
 
-![](bug_pics/spot.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/spot.jpeg){.lightbox data-lightbox="group4" 
 description="*Lycorma delicatula* (Spotted Laternfly)<br>PA: Allegheny Co<br>Three Rivers Heritage Trail<br>9 July 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_1751.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_1751.jpeg){.lightbox data-lightbox="group4" 
 description="*Homalodiscus vitripennis* (Glassy-winged Sharpshooter)<br>CA: Sta Barbara Co<br>Goleta<br>17 July 2024<br>B. Ryan"}
 
-![](bug_pics/123.jpg){.lightbox data-lightbox="group1" 
+![](bug_pics/123.jpg){.lightbox data-lightbox="group4" 
 description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>16 July 2025<br>B. Ryan"}
 
 :::
@@ -98,12 +98,31 @@ description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br
 
 ## Orthoptera (Grasshopers, Crickets, and Katydids)
 
+
+::: {layout="[1, 1, 1, 1]"}
+
+![](bug_pics/IMG_4836.jpeg){.lightbox data-lightbox="group5" 
+description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4837.jpeg){.lightbox data-lightbox="group5" 
+description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>9 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5427.jpeg){.lightbox data-lightbox="group5" 
+description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5432.jpeg){.lightbox data-lightbox="group5" 
+description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
+
+---
+
+## Odonata (Dragonflies, Damselflies)
+
 ::: {layout="[1, 1]"}
 
-![](bug_pics/IMG_4811.jpeg){.lightbox data-lightbox="group3" 
+![](bug_pics/IMG_4811.jpeg){.lightbox data-lightbox="group6" 
 description="*Rhionaeschna multicolor* (Blue-eyed darner)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4880.jpeg){.lightbox data-lightbox="group3" 
+![](bug_pics/IMG_4880.jpeg){.lightbox data-lightbox="group6" 
 description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>Refugio Rd.<br>7 May 2025<br>B. Ryan"}
 
 :::
@@ -112,7 +131,7 @@ description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>
 
 ## Phasmida (Stick Bugs, Timena's)
 
-![](bug_pics/IMG_1364.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_1364.jpeg){.lightbox data-lightbox="group7" 
 description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
 
 ----
