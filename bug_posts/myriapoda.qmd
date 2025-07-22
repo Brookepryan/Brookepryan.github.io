@@ -1,8 +1,0 @@
----
-title: "Myriapoda"
-description: "Millipedes and Centipedes"
-image: bug_pics/millipede_1.jpg
-filters: 
-  - lightbox
-lightbox: auto
----

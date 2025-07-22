@@ -14,49 +14,64 @@ I know many people don’t share my love for spiders, scorpions, and their eight
  - Female scorpions can store sperm inside their abdomen, are choose when they want to impregnate themselves with it. They can store up to eight different sperm reserves from different scorpions and conciously decide which one to become pregnant with. What a superpower! **Source:** [Ologies Podcast](https://www.alieward.com/ologies/scorpiology)
  - Uropygids, commonly known as whip scorpions, resemble true scorpions and can look pretty creepy (see 3. Uropygid). However, they are not known to use their pincers against humans, and they completely lack a venomous sting. In other words, they’re almost completely harmless to us! Another common name for them is vinegaroon because they have special glands in their abdomen that can spray acetic acid at predators as a defense mechanism. So, they’re basically the invertebrate equivalent of a skunk! **Source:** Turner, T. (2025, April). Chelicerates II [Lecture]. EEMB 116, University of California, Santa Barbara.
 
+
+Now for some cool arachnids I have encountered over the past few years: 
+
+*Click on the images for tags and identifications!*
+
 -------
 
-## Araneae (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
+## *Araneae* (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
 
-::: {layout="[[1, 1, 1], [1, 1, 1, 1]]"}
+::: {layout="[[1, 1, 1, 1], [1, 1, 1, 1]]"}
 
-![](bug_pics/IMG_2201.jpeg){.lightbox}
+![](bug_pics/IMG_2201.jpeg){.lightbox data-lightbox="group1" 
+description="Family Theraphosidae (Tarantuala), Genus Aphonopelma<br>CA: Sta Ynez Co<br>Sedgwick Reserve<br>17 September 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_1883.jpeg){.lightbox}
+![](bug_pics/IMG_1883.jpeg){.lightbox data-lightbox="group1"
+description="Subfamily Salticinae<br>CA: Sta Barbara Co<br>Franklin Trail, Carpinteria<br>30 July 2024<br>B. Ryan"}}
 
 
-![](bug_pics/IMG_3996.jpeg){.lightbox}
+![](bug_pics/IMG_3996.jpeg){.lightbox data-lightbox="group1"
+description="Latrodectus geometricus (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_3999.jpeg){.lightbox}
+![](bug_pics/IMG_3999.jpeg){.lightbox data-lightbox="group1"
+description="Latrodectus geometricus (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4506.jpeg){.lightbox}
+![](bug_pics/IMG_4506.jpeg){.lightbox data-lightbox="group1" 
+description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4505.jpeg){.lightbox}
+![](bug_pics/IMG_4505.jpeg){.lightbox data-lightbox="group1"
+description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/sunspider.png){.lightbox}
+![](bug_pics/sunspider.png){.lightbox data-lightbox="group1"
+description="Family Zoropsidae, Genus Titiotus (Rocky Canyon Spiders)<br>CA: Sta Barbara Co<br>North Campus Open Space, UCSB<br>27 May 2025<br>B. Ryan"}
+
+
+![](bug_pics/IMG_4042.jpg){.lightbox data-lightbox="group1"
+description="Family Araneidae (Orbweavers), Genus Araneus<br>CA: Sta Ynez Co<br>Sedgwick Reserve<br>17 July 2025<br>S. Mauffet-Smith"}
+
 
 :::
 -------
 
-## Scorpiones (True Scorpions)
+## Scorpiones (True Scorpions), Uropygi (Whip Scorpions/Vinegaroons), Amblypygi (Tailless Whip Scorpions)
+
+::: {layout="[1, 1, 1, 1]"}
+
+![](bug_pics/IMG_1370.jpeg){.lightbox data-lightbox="group2"
+description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_1370.jpeg){.lightbox}
+![](bug_pics/IMG_4500.jpeg){.lightbox data-lightbox="group2"
+description="Order Uropygi, Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
 
-------
-
-## Uropygi (Whip Scorpions, Vinegaroons)
-
-![](bug_pics/IMG_4500.jpeg){.lightbox}
+![](bug_pics/IMG_4499.jpeg){.lightbox data-lightbox="group2"
+description="Order Uropygi (Whip Scorpions/Vinegaroons), Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4499.jpeg){.lightbox}
+![](bug_pics/IMG_4508.jpeg){.lightbox data-lightbox="group2"
+description="Amblypygi (Tailless Whip Scorpions)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-
-------
-
-## Amblypygi (Tailless Whip Scorpions)
-
-![](bug_pics/IMG_4508.jpeg){.lightbox}
-
+:::
