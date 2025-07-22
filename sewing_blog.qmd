@@ -1,10 +1,11 @@
 ---
 title: "Sewing!"
+toc: FALSE
 listing: 
   contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
-  categories: true # allows you to sort posts by assigned categories 
+  categories: FALSE # allows you to sort posts by assigned categories 
 ---
 
 I taught myself to sew four years ago as a way to combine my interest in fashion with my commitment to sustainability. Since then, I have mended and altered countless items, held multiple sewing positions, and designed my own patterns.
