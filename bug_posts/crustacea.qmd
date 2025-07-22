@@ -1,10 +1,10 @@
 ---
 title: "Other Inverts"
-description: "Crustacea, Gastropoda, Myriapoda"
+description: "Crustacea, Gastropoda, Myriapoda, etc"
 image: bug_pics/crab_1.jpg
 ---
 
-Here is a random collection of invertebrates is random taxa that I had the pleasure of meeting recently:
+Here is a collection of invertebrates belonging to random taxa that I think are cool.
 
 *Click on the images for tags and identifications!*
 

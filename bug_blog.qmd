@@ -1,5 +1,5 @@
 ---
-title: "Bugs and other Creepy Crawlies"
+title: "Bugs and other fellas"
 toc: False
 listing: 
   contents: bug_posts # all Quarto docs in the `posts` directory will be included on your listing page
