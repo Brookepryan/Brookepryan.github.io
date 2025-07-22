@@ -10,10 +10,10 @@ I assist researchers in Carla D'Antonio's VegLab at UCSB on a project identifyin
 ::: {layout="[1, 1]"}
 
 
-![](research_photos/piru1.jpeg){.lightbox data-lightbox="first" 
+![](research_photos/piru1.jpeg){.lightbox group="first" 
 description="Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024."}
 
-![](research_photos/piru2.jpeg){.lightbox data-lightbox="first" 
+![](research_photos/piru2.jpeg){.lightbox group="first" 
 description="Photo taken at the research site in Lake Piru, Los Padres National Forest, June 2024."}
 :::
 <span style="font-size: 0.8em; color: #5A8045;">Lake Piru Research Site, June 2024</span>

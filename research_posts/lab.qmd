@@ -7,7 +7,7 @@ image: research_photos/leafpic.jpeg
 ---
 
 
-![](research_photos/leafpic.jpeg){.lightbox data-lightbox="first" 
+![](research_photos/leafpic.jpeg){.lightbox group="first" 
 description="Collecting branches from post-burn trees to measure leaf and stem hydraulic conductivity. Sedgwick Reserve, July 2024"}
 
 <span style="font-size: 0.8em; color: #5A8045;">Sedgwick Reserve, July 2024</span>

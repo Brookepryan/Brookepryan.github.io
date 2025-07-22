@@ -12,20 +12,20 @@ Here is a random collection of invertebrates is random taxa that I had the pleas
 
 ::: {layout= "[[1, 1], [1, 1, 1]]"}
 
-![](bug_pics/crab_1.jpg){.lightbox data-lightbox="group1" 
+![](bug_pics/crab_1.jpg){.lightbox group="group1" 
 description="Phylum Arthropoda, Class Malacostraca, Order Decapoda<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan"}
 
-![](bug_pics/millipede_1.jpg){.lightbox data-lightbox="group1" 
+![](bug_pics/millipede_1.jpg){.lightbox group="group1" 
 description="Phylum Arthopoda, Class Diploda, Order Polydesmida, Family Xystodesmidae, *Harpaphe haydeniana* (Yellow-spotted Millipede)<br>CA: Monterey Co<br>Big Sur<br>19 April 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4322.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_4322.jpeg){.lightbox group="group1" 
 description="Phylum Annelida<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan"}
 
-![](bug_pics/snail.png){.lightbox data-lightbox="group1" 
+![](bug_pics/snail.png){.lightbox group="group1" 
 description="Phylum Mollusca, Class Gastropoda, Order Trochida, Family Tegulidae *Norrisia norrisii* (Norris's Top Snail)<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4318.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_4318.jpeg){.lightbox group="group1" 
 description="Phylum Mollusca, Class Cephalopoda, Order Octopoda, Family Octopodidae(Typical Octopuses)<br>CA: Sta Barbara Co<br>Devereux Beach<br>4 June 2025<br>B. Ryan"}
 
 :::

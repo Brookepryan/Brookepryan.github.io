@@ -25,30 +25,30 @@ Now for some cool arachnids I have encountered over the past few years:
 
 ::: {layout="[[1, 1, 1, 1], [1, 1, 1, 1]]"}
 
-![](bug_pics/IMG_2201.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_2201.jpeg){.lightbox group="group1" 
 description="Family Theraphosidae (Tarantuala), Genus *Aphonopelma*<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 September 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_1883.jpeg){.lightbox data-lightbox="group1"
-description="Subfamily Salticinae<br>CA: Sta Barbara Co<br>Franklin Trail, Carpinteria<br>30 July 2024<br>B. Ryan"}}
+![](bug_pics/IMG_1883.jpeg){.lightbox group="group1"
+description="Subfamily Salticinae<br>CA: Sta Barbara Co<br>Franklin Trail, Carpinteria<br>30 July 2024<br>B. Ryan"}
 
 
-![](bug_pics/IMG_3996.jpeg){.lightbox data-lightbox="group1"
+![](bug_pics/IMG_3996.jpeg){.lightbox group="group1"
 description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_3999.jpeg){.lightbox data-lightbox="group1"
+![](bug_pics/IMG_3999.jpeg){.lightbox group="group1"
 description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4506.jpeg){.lightbox data-lightbox="group1" 
+![](bug_pics/IMG_4506.jpeg){.lightbox group="group1" 
 description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4505.jpeg){.lightbox data-lightbox="group1"
+![](bug_pics/IMG_4505.jpeg){.lightbox group="group1"
 description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/sunspider.png){.lightbox data-lightbox="group1"
+![](bug_pics/sunspider.png){.lightbox group="group1"
 description="Family Zoropsidae, Genus *Titiotus* (Rocky Canyon Spiders)<br>CA: Sta Barbara Co<br>North Campus Open Space, UCSB<br>27 May 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4042.jpg){.lightbox data-lightbox="group1"
+![](bug_pics/IMG_4042.jpg){.lightbox group="group1"
 description="Family Araneidae (Orbweavers), Genus *Araneus*<br>CA: Sta Ynez Co<br>Sedgwick Reserve<br>17 July 2025<br>S. Mauffet-Smith"}
 
 
@@ -59,19 +59,19 @@ description="Family Araneidae (Orbweavers), Genus *Araneus*<br>CA: Sta Ynez Co<b
 
 ::: {layout="[1, 1, 1, 1]"}
 
-![](bug_pics/IMG_1370.jpeg){.lightbox data-lightbox="group2"
+![](bug_pics/IMG_1370.jpeg){.lightbox group="group2"
 description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4500.jpeg){.lightbox data-lightbox="group2"
+![](bug_pics/IMG_4500.jpeg){.lightbox group="group2"
 description="Order Uropygi, Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4499.jpeg){.lightbox data-lightbox="group2"
+![](bug_pics/IMG_4499.jpeg){.lightbox group="group2"
 description="Order Uropygi (Whip Scorpions/Vinegaroons), Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
 
-![](bug_pics/IMG_4508.jpeg){.lightbox data-lightbox="group2"
+![](bug_pics/IMG_4508.jpeg){.lightbox group="group2"
 description="Amblypygi (Tailless Whip Scorpions)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
 :::

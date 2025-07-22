@@ -56,20 +56,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ::: {layout="[[1, 1], [1, 1, 1]]"}
 
-![](media/palace.jpeg){.lightbox data-lightbox="madrid"
+![](media/palace.jpeg){.lightbox group="madrid"
 description="Palacio Real de Madrid"}
 
-![](media/el_retiro.jpeg){.lightbox data-lightbox="madrid"
+![](media/el_retiro.jpeg){.lightbox group="madrid"
 description="Parque de El Retiro"}
 
-![](media/real_jardin.jpeg){.lightbox data-lightbox="madrid"
+![](media/real_jardin.jpeg){.lightbox group="madrid"
 description="Real Jardín Botánico"}
 
 
-![](media/embajadores.jpeg){.lightbox data-lightbox="madrid"
+![](media/embajadores.jpeg){.lightbox group="madrid"
 description="Embajadores, Madrid"}
 
-![](media/madrid_sheep.jpeg){.lightbox data-lightbox="madrid"
+![](media/madrid_sheep.jpeg){.lightbox group="madrid"
 description="Tanshumance Festival, Madrid"}
 
 
