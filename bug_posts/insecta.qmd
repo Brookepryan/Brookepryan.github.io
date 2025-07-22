@@ -2,42 +2,118 @@
 title: "Insecta"
 description: "Beetles, Bees, Butterflies - you know the jist"
 image: bug_pics/butterflies.jpg
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 Insecta is the largest class in the entire animal kingdom, with approximately 30 recognized orders and nearly 1 million described species. Scientists estimate there may be as many as 10 million insect species on Earth. 
+
+Take a look at a few that have caught my eye recently:
+
+*Click on the images for tags and identifications!*
 
 ----
 
 ## Coleoptera (Beetles)
 
+::: {layout="[[1, 1, 1], [1, 1, 1]]"}
+
+![](bug_pics/IMG_4733.jpeg){.lightbox data-lightbox="group1" 
+description="*Nyctoporis carinata* (Flightless Darking Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4855.jpeg){.lightbox data-lightbox="group1" 
+description="*Temnoscheila chlorodia* (Pine Trogossitid Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>29 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_2208.jpg){.lightbox data-lightbox="group1" 
+description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
+
+![](bug_pics/IMG_2209.jpg){.lightbox data-lightbox="group1" 
+description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
+
+![](bug_pics/poop.jpg){.lightbox data-lightbox="group1" 
+description="*Chrysochus cobaltinus* (Cobalt Milkweed Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4757.jpeg){.lightbox data-lightbox="group1" 
+description="*Trirhabda eriodictyonis* (Yerba Santa Beetle)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
+
+:::
+
 ----
 
 ## Hymenoptera (Bees, Wasps, & Ants)
 
+::: {layout="[1, 1, 1, 1]"}
+
+![](bug_pics/IMG_3307.jpeg){.lightbox data-lightbox="group2" 
+description="Genus *Apis* (Honey Bees)<br>CA: Sta Barbara Co<br>Foothill Rd. Carpinteria<br>30 January 2025<br>B. Ryan"}
+
+
+![](bug_pics/IMG_4471.jpeg){.lightbox data-lightbox="group2" 
+description="*Dasymutilla aureola* (Pacific Velvet Ant)<br>CA: Monterey Co<br>Carmel Valley<br>20 April 2025<br>B. Ryan"}
+
+
+![](bug_pics/IMG_1468.jpeg){.lightbox data-lightbox="group2" 
+description="*Xylocopa sonorina* (Valley Carpenter Bee)<br>CA: Sta Barbara Co<br>Garden St<br>1 June 2025<br>A. Aceves"}
+
+![](bug_pics/IMG_5442.jpeg){.lightbox data-lightbox="group1" 
+description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 July 2025<br>B. Ryan"}
+
+
+:::
 ----
 
 ## Lepidoptera (Butterflies & Months )
 
-----
+::: {layout="[1, 1, 1]"}
 
-## Diptera (Flies)
+![](bug_pics/IMG_4857.jpeg){.lightbox data-lightbox="group3" 
+description="*Argynnis callippe* ssp. *comstocki* (Comstock's Fritillary)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>29 May 2025<br>B. Ryan"}
+
+
+
+![](bug_pics/cocoon.jpg){.lightbox data-lightbox="group3" 
+description="Family Nortontidae (Prominent Moths)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5415.jpeg){.lightbox data-lightbox="group3" 
+description="*Coenonympha california* (Common Ringlet)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
+
+:::
 
 ----
 
 ## Hemiptera (True Bugs)
 
+::: {layout="[1, 1, 1]"}
+
+![](bug_pics/spot.jpeg){.lightbox data-lightbox="group1" 
+description="*Lycorma delicatula* (Spotted Laternfly)<br>PA: Allegheny Co<br>Three Rivers Heritage Trail<br>9 July 2024<br>B. Ryan"}
+
+![](bug_pics/IMG_1751.jpeg){.lightbox data-lightbox="group1" 
+description="*Homalodiscus vitripennis* (Glassy-winged Sharpshooter)<br>CA: Sta Barbara Co<br>Goleta<br>17 July 2024<br>B. Ryan"}
+
+![](bug_pics/123.jpg){.lightbox data-lightbox="group1" 
+description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>16 July 2025<br>B. Ryan"}
+
+:::
+
 ----
 
 ## Orthoptera (Grasshopers, Crickets, and Katydids)
+
+::: {layout="[1, 1]"}
+
+![](bug_pics/IMG_4811.jpeg){.lightbox data-lightbox="group3" 
+description="*Rhionaeschna multicolor* (Blue-eyed darner)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4880.jpeg){.lightbox data-lightbox="group3" 
+description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>Refugio Rd.<br>7 May 2025<br>B. Ryan"}
+
+:::
 
 ----
 
 ## Phasmida (Stick Bugs, Timena's)
 
-----
+![](bug_pics/IMG_1364.jpeg){.lightbox data-lightbox="group1" 
+description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
 
-## Raphididae (Snakeflies)
+----
 
