@@ -4,9 +4,6 @@ description: "Prescribed burning can affect a tree's water transport through its
 categories:
   - Assisting On
 image: research_photos/leafpic.jpeg
-filters: 
-  - lightbox
-lightbox: auto
 ---
 
 

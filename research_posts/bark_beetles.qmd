@@ -4,9 +4,7 @@ description: "Monarthrum spp. and Pseudopityophthorus spp. beetle populations si
 categories: 
   - Personal Projects
 image: research_photos/bbpreview.jpeg
-filters: 
-  - lightbox
-lightbox: auto
+
 ---
 
 As the threat of wildfires continues to grow, many are turning to Indigenous practices of using prescribed burns to prevent megafires and promote forest health. While prescribed burns offer numerous ecological and cultural benefits, the presence of bark and ambrosia beetles can complicate these outcomes. These insects infest trees by boring beneath the bark, creating spaces to grow and reproduce. In the process, they introduce various fungi into the trees' sapwood, which can sometimes lead to tree mortality. Since bark and ambrosia beetles tend to target stressed or dying trees, I am investigating whether prescribed burns in infested areas might inadvertently boost beetle populations, potentially increasing tree mortality.
