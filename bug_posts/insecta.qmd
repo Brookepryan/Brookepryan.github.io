@@ -53,7 +53,7 @@ description="*Dasymutilla aureola* (Pacific Velvet Ant)<br>CA: Monterey Co<br>Ca
 ![](bug_pics/IMG_1468.jpeg){.lightbox group="group2" 
 description="*Xylocopa sonorina* (Valley Carpenter Bee)<br>CA: Sta Barbara Co<br>Garden St<br>1 June 2025<br>A. Aceves"}
 
-![](bug_pics/IMG_5442.jpeg){.lightbox group="group1" 
+![](bug_pics/IMG_5442.jpeg){.lightbox group="group2" 
 description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 July 2025<br>B. Ryan"}
 
 
