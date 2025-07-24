@@ -1,6 +1,6 @@
 ---
 title: "Insecta"
-description: "Beetles, Bees, Butterflies - you know the jist"
+description: "Beetles, Bees, Butterflies - you know the gist"
 image: bug_pics/butterflies.jpg
 ---
 

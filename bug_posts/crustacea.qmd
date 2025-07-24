@@ -4,7 +4,7 @@ description: "Crustacea, Gastropoda, Myriapoda, etc"
 image: bug_pics/crab_1.jpg
 ---
 
-Here is a collection of invertebrates belonging to random taxa that I think are cool.
+Here is a collection of invertebrates belonging to various taxa that I think are cool.
 
 *Click on the images for tags and identifications!*
 
