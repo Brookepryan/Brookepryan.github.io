@@ -23,7 +23,17 @@ Now for some cool arachnids I have encountered over the past few years:
 
 ## *Araneae* (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
 
-::: {layout="[[1, 1, 1, 1], [1, 1, 1, 1]]"}
+::: {layout="[[1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]"}
+
+![](bug_pics/crabspider.jpg){.lightbox group="group1" 
+description="*Bassaniana utahensis* (Utah Crab Spider guarding her babies)<br>CA: Tulare County Co<br>36°25'12.5"N, 118°47'59.9"W<br>28 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5769.jpg){.lightbox group="group1" 
+description="*Araneus gemmoides* (Cat-faced Orbweaver)<br>CA: Tulare County<br>36°24'13.2"N, 118°47'16.4"W<br>28 July 2025<br>B. Ryan"}
+
+![](bug_pics/me_holding.jpg){.lightbox group="group1" 
+description="*Araneus gemmoides* (Me holding the Cat-faced Orbweaver)<br>CA: Tulare County<br>36°24'13.2"N, 118°47'16.4"W<br>28 July 2025<br>B. Ryan"}
+
 
 ![](bug_pics/IMG_2201.jpeg){.lightbox group="group1" 
 description="Family Theraphosidae (Tarantuala), Genus *Aphonopelma*<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 September 2024<br>B. Ryan"}
@@ -58,6 +68,13 @@ description="Family Araneidae (Orbweavers), Genus *Araneus*<br>CA: Sta Ynez Co<b
 ## Scorpiones (True Scorpions), Uropygi (Whip Scorpions/Vinegaroons), Amblypygi (Tailless Whip Scorpions)
 
 ::: {layout="[1, 1, 1, 1]"}
+
+![](bug_pics/scorp.jpg){.lightbox group="group2" 
+description="unidentified scorpion I found in while doing field work in the sequoias (I was too scared to look at it outside of the vial)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+
+![](bug_pics/DSC00361.JPG){.lightbox group="group2" 
+description="Me holding the scorpion covered in ash from post-fire site<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+
 
 ![](bug_pics/IMG_1370.jpeg){.lightbox group="group2"
 description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}

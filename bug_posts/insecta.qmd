@@ -64,6 +64,9 @@ description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>S
 
 ::: {layout="[1, 1, 1]"}
 
+![](bug_pics/mothy.jpg){.lightbox group="group1" 
+description="*Ochlodes syvanoides* (Woodland Skipper)<br>CA: Sta Barbara<br>UCSB<br>29 July 2025<br>B. Ryan"}
+
 ![](bug_pics/IMG_4857.jpeg){.lightbox group="group3" 
 description="*Argynnis callippe* ssp. *comstocki* (Comstock's Fritillary)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>29 May 2025<br>B. Ryan"}
 
@@ -99,7 +102,10 @@ description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br
 ## Orthoptera (Grasshopers, Crickets, and Katydids)
 
 
-::: {layout="[1, 1, 1, 1]"}
+::: {layout="[1, 1, 1, 1, 1]"}
+
+![](bug_pics/grasshoper_seki.jpg){.lightbox group="group5" 
+description="*Trimerotropis fontana* (Fontana Grasshoper)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
 
 ![](bug_pics/IMG_4836.jpeg){.lightbox group="group5" 
 description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
