@@ -12,16 +12,11 @@ I designed and crafted two styles of slow-fashion, athletic swimwear: a one-piec
 ![](sewing_images/both_styles.jpeg){.lightbox group="first"}
 One-piece:
 
-::: {layout="[1, 1, 1]"}
+::: {layout="[1]"}
 
 ![](sewing_images/grass_one_piece.jpeg){.lightbox group="onepiece"
 description="one-piece, black"}
 
-![](sewing_images/one_piece.jpeg){.lightbox group="onepiece"
-description="one_piece, brown"}
-
-![](sewing_images/swimwear_preview.jpeg){.lightbox group="onepiece"
-description="One-piece, brown"}
 
 :::
 

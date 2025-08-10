@@ -50,10 +50,13 @@ Now for some cool arachnids I have encountered over the past few years:
 
 ## Scorpiones (True Scorpions), Uropygi (Whip Scorpions/Vinegaroons), Amblypygi (Tailless Whip Scorpions)
 
-::: {layout="[1, 1, 1], [1, 1]"}
+::: {layout="[[1], [1, 1, 1, 1, 1]]"}
+
+
+![](bug_pics/DSC00361.JPG){.lightbox group="group2" description="Me holding a scorpion I caught, covered in ash from post-fire research site<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+
 ![](bug_pics/scorp.jpg){.lightbox group="group2" description="unidentified scorpion I found in while doing field work in the sequoias (I was too scared to look at it outside of the vial)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
 
-![](bug_pics/DSC00361.JPG){.lightbox group="group2" description="Me holding the scorpion covered in ash from post-fire site<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
 
 ![](bug_pics/IMG_1370.jpeg){.lightbox group="group2" description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}
 
