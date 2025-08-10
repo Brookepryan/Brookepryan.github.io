@@ -1,5 +1,5 @@
 ---
-title: "Brooke Ryan"
+title: "Brooke P. Ryan"
 image: media/newpic.jpg
 toc: false
 about: 

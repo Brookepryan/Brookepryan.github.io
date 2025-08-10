@@ -1,10 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google3ce7468ddf2c501f.html
 
 website:
   navbar:
-    title: "Brooke Ryan"
+    title: "Brooke P. Ryan"
     left:
       - href: index.qmd
         text: Home
@@ -26,5 +28,3 @@ format:
     mainfont: "Quicksand"
     toc: true
     page-layout: full
-
-
