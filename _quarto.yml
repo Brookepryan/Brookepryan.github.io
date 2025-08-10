@@ -5,6 +5,7 @@ project:
     - google3ce7468ddf2c501f.html
 
 website:
+  site-url: https://brookepryan.github.io
   navbar:
     title: "Brooke P. Ryan"
     left:
