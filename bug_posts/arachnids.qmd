@@ -2,93 +2,64 @@
 title: "Arachnida"
 description: "Spiders, scorpions, and more!"
 image: bug_pics/arach_2.jpg
-
 ---
 
 I know many people don’t share my love for spiders, scorpions, and their eight-legged kin—and for good reason. Arachnids aren’t just eerie to look at; some have incredibly potent venom and deliver painfully memorable bites. But I’ve found that the more I learned about them, the less afraid I felt and the more fascinated I became. To me, arachnids are among the most advanced and intriguing creatures on Earth. That’s why I’ve added a “Fun Facts” section to kick off this page—so even those with arachnophobia might come to appreciate their so-called enemies just a little more.
 
 # Fun facts:
- - If you come across a scorpion, remember: the smaller the claws, the nastier the sting! Scorpions with bigger pincers rely more heavily on their claws for defense and hunting, so their venom tends to be weaker. But species with tiny, delicate pincers make up for it with a much more potent sting. **Source:** [ScienceDaily](https://www.sciencedaily.com/releases/2022/04/220421141627.htm)
- - Jumping spiders aren’t just undeniably adorable — they’re also quite clever! Instead of using silk to build webs for hunting, they spin small silky retreats or "hammocks" to rest, molt, or take shelter. During the day or night, they may hang from these structures to stay safe and cozy.These non-aggressive spiders rarely bite. Instead, they often raise and wave their front legs—a behavior that can signal curiosity, a form of communication with other spiders, or even a defensive display toward larger animals. **Source:** [Spiderzoon](https://spiderzoon.com/)
- - Certain spider species use a behavior called “ballooning” as a way to disperse. When they are just tiny spiderlings (too small to harm you!), they release long silk threads from their abdomens that catch the air and carry them to new areas. This helps them find habitats, avoid competition, and establish new populations. For a long time, researchers believed ballooning worked like a kite, with spiders relying on the wind to transport them. But recent studies have revealed a surprising twist: spiders can detect days when the Earth’s negative charge and the atmosphere’s positive charge are especially strong. On these days, they release their silk—also negatively charged—which is repelled by the ground and pulled upward into the air by the atmospheric charge, allowing them to “ride” the electric field into the sky. Who knew baby spiders were such talented physicists? **Source:** Turner, T. (2025, April). Chelicerates II [Lecture]. EEMB 116, University of California, Santa Barbara.
- - Female scorpions can store sperm inside their abdomen, are choose when they want to impregnate themselves with it. They can store up to eight different sperm reserves from different scorpions and conciously decide which one to become pregnant with. What a superpower! **Source:** [Ologies Podcast](https://www.alieward.com/ologies/scorpiology)
- - Uropygids, commonly known as whip scorpions, resemble true scorpions and can look pretty creepy (see 3. Uropygid). However, they are not known to use their pincers against humans, and they completely lack a venomous sting. In other words, they’re almost completely harmless to us! Another common name for them is vinegaroon because they have special glands in their abdomen that can spray acetic acid at predators as a defense mechanism. So, they’re basically the invertebrate equivalent of a skunk! **Source:** Turner, T. (2025, April). Chelicerates II [Lecture]. EEMB 116, University of California, Santa Barbara.
 
+-   If you come across a scorpion, remember: the smaller the claws, the nastier the sting! Scorpions with bigger pincers rely more heavily on their claws for defense and hunting, so their venom tends to be weaker. But species with tiny, delicate pincers make up for it with a much more potent sting. **Source:** [ScienceDaily](https://www.sciencedaily.com/releases/2022/04/220421141627.htm)
+-   Jumping spiders aren’t just undeniably adorable — they’re also quite clever! Instead of using silk to build webs for hunting, they spin small silky retreats or "hammocks" to rest, molt, or take shelter. During the day or night, they may hang from these structures to stay safe and cozy.These non-aggressive spiders rarely bite. Instead, they often raise and wave their front legs—a behavior that can signal curiosity, a form of communication with other spiders, or even a defensive display toward larger animals. **Source:** [Spiderzoon](https://spiderzoon.com/)
+-   Certain spider species use a behavior called “ballooning” as a way to disperse. When they are just tiny spiderlings (too small to harm you!), they release long silk threads from their abdomens that catch the air and carry them to new areas. This helps them find habitats, avoid competition, and establish new populations. For a long time, researchers believed ballooning worked like a kite, with spiders relying on the wind to transport them. But recent studies have revealed a surprising twist: spiders can detect days when the Earth’s negative charge and the atmosphere’s positive charge are especially strong. On these days, they release their silk—also negatively charged—which is repelled by the ground and pulled upward into the air by the atmospheric charge, allowing them to “ride” the electric field into the sky. Who knew baby spiders were such talented physicists? **Source:** Turner, T. (2025, April). Chelicerates II \[Lecture\]. EEMB 116, University of California, Santa Barbara.
+-   Female scorpions can store sperm inside their abdomen, are choose when they want to impregnate themselves with it. They can store up to eight different sperm reserves from different scorpions and conciously decide which one to become pregnant with. What a superpower! **Source:** [Ologies Podcast](https://www.alieward.com/ologies/scorpiology)
+-   Uropygids, commonly known as whip scorpions, resemble true scorpions and can look pretty creepy (see 3. Uropygid). However, they are not known to use their pincers against humans, and they completely lack a venomous sting. In other words, they’re almost completely harmless to us! Another common name for them is vinegaroon because they have special glands in their abdomen that can spray acetic acid at predators as a defense mechanism. So, they’re basically the invertebrate equivalent of a skunk! **Source:** Turner, T. (2025, April). Chelicerates II \[Lecture\]. EEMB 116, University of California, Santa Barbara.
 
-Now for some cool arachnids I have encountered over the past few years: 
+Now for some cool arachnids I have encountered over the past few years:
 
 *Click on the images for tags and identifications!*
 
--------
+------------------------------------------------------------------------
 
-## *Araneae* (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
+## Araneae (Tarantulas, Jumping Spiders, Orbweavers, Widows, etc)
 
 ::: {layout="[[1, 1, 1], [1, 1, 1, 1], [1, 1, 1, 1]]"}
+![](bug_pics/crabspider.jpg){.lightbox group="group1" description="*Bassaniana utahensis* (Utah Crab Spider guarding her babies)<br>CA: Tulare County<br>36.25125 N, 118.47599 W<br>28 July 2025<br>B. Ryan"}
 
-![](bug_pics/crabspider.jpg){.lightbox group="group1" 
-description="*Bassaniana utahensis* (Utah Crab Spider guarding her babies)<br>CA: Tulare County Co<br>36°25'12.5"N, 118°47'59.9"W<br>28 July 2025<br>B. Ryan"}
+![](bug_pics/IMG_5769.jpg){.lightbox group="group1" description="*Araneus gemmoides* (Cat-faced Orbweaver)<br>CA: Tulare County<br>36.24132 N, 118.47164 W<br>28 July 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_5769.jpg){.lightbox group="group1" 
-description="*Araneus gemmoides* (Cat-faced Orbweaver)<br>CA: Tulare County<br>36°24'13.2"N, 118°47'16.4"W<br>28 July 2025<br>B. Ryan"}
+![](bug_pics/me_holding.jpg){.lightbox group="group1" description="*Araneus gemmoides* (Me holding the Cat-faced Orbweaver)<br>CA: Tulare County<br>36.24132 N, 118.47164 W<br>28 July 2025<br>B. Ryan"}
 
-![](bug_pics/me_holding.jpg){.lightbox group="group1" 
-description="*Araneus gemmoides* (Me holding the Cat-faced Orbweaver)<br>CA: Tulare County<br>36°24'13.2"N, 118°47'16.4"W<br>28 July 2025<br>B. Ryan"}
+![](bug_pics/IMG_2201.jpeg){.lightbox group="group1" description="Family Theraphosidae (Tarantuala), Genus *Aphonopelma*<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 September 2024<br>B. Ryan"}
 
+![](bug_pics/IMG_1883.jpeg){.lightbox group="group1" description="Subfamily Salticinae<br>CA: Sta Barbara Co<br>Franklin Trail, Carpinteria<br>30 July 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_2201.jpeg){.lightbox group="group1" 
-description="Family Theraphosidae (Tarantuala), Genus *Aphonopelma*<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 September 2024<br>B. Ryan"}
+![](bug_pics/IMG_3996.jpeg){.lightbox group="group1" description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_1883.jpeg){.lightbox group="group1"
-description="Subfamily Salticinae<br>CA: Sta Barbara Co<br>Franklin Trail, Carpinteria<br>30 July 2024<br>B. Ryan"}
+![](bug_pics/IMG_3999.jpeg){.lightbox group="group1" description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
 
+![](bug_pics/IMG_4506.jpeg){.lightbox group="group1" description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_3996.jpeg){.lightbox group="group1"
-description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
+![](bug_pics/IMG_4505.jpeg){.lightbox group="group1" description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_3999.jpeg){.lightbox group="group1"
-description="*Latrodectus geometricus* (Brown Widow)<br>CA: Sta Barbara Co<br>Foothill Rd, Carpinteria<br>20 March 2025<br>B. Ryan"}
+![](bug_pics/sunspider.png){.lightbox group="group1" description="Family Zoropsidae, Genus *Titiotus* (Rocky Canyon Spiders)<br>CA: Sta Barbara Co<br>North Campus Open Space, UCSB<br>27 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4506.jpeg){.lightbox group="group1" 
-description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4505.jpeg){.lightbox group="group1"
-description="Family Theraphosidae (Tarantuala)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
-
-![](bug_pics/sunspider.png){.lightbox group="group1"
-description="Family Zoropsidae, Genus *Titiotus* (Rocky Canyon Spiders)<br>CA: Sta Barbara Co<br>North Campus Open Space, UCSB<br>27 May 2025<br>B. Ryan"}
-
-
-![](bug_pics/IMG_4042.jpg){.lightbox group="group1"
-description="Family Araneidae (Orbweavers), Genus *Araneus*<br>CA: Sta Ynez Co<br>Sedgwick Reserve<br>17 July 2025<br>S. Mauffet-Smith"}
-
-
+![](bug_pics/IMG_4042.jpg){.lightbox group="group1" description="Family Araneidae (Orbweavers), Genus *Araneus*<br>CA: Sta Ynez Co<br>Sedgwick Reserve<br>17 July 2025<br>S. Mauffet-Smith"}
 :::
--------
+
+------------------------------------------------------------------------
 
 ## Scorpiones (True Scorpions), Uropygi (Whip Scorpions/Vinegaroons), Amblypygi (Tailless Whip Scorpions)
 
-::: {layout="[1, 1, 1, 1]"}
+::: {layout="[1, 1, 1], [1, 1]"}
+![](bug_pics/scorp.jpg){.lightbox group="group2" description="unidentified scorpion I found in while doing field work in the sequoias (I was too scared to look at it outside of the vial)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
 
-![](bug_pics/scorp.jpg){.lightbox group="group2" 
-description="unidentified scorpion I found in while doing field work in the sequoias (I was too scared to look at it outside of the vial)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+![](bug_pics/DSC00361.JPG){.lightbox group="group2" description="Me holding the scorpion covered in ash from post-fire site<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
 
-![](bug_pics/DSC00361.JPG){.lightbox group="group2" 
-description="Me holding the scorpion covered in ash from post-fire site<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+![](bug_pics/IMG_1370.jpeg){.lightbox group="group2" description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}
 
+![](bug_pics/IMG_4500.jpeg){.lightbox group="group2" description="Order Uropygi, Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_1370.jpeg){.lightbox group="group2"
-description="Order Scorpiones, Family Vaejovidae (Devil Scorpions)<br>CA: Sta Barbara Co<br> Refugio Rd, Goleta<br>17 May 2025<br>B. Ryan"}
+![](bug_pics/IMG_4499.jpeg){.lightbox group="group2" description="Order Uropygi (Whip Scorpions/Vinegaroons), Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 
-
-![](bug_pics/IMG_4500.jpeg){.lightbox group="group2"
-description="Order Uropygi, Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
-
-
-![](bug_pics/IMG_4499.jpeg){.lightbox group="group2"
-description="Order Uropygi (Whip Scorpions/Vinegaroons), Family Mastigoprotus<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
-
-
-![](bug_pics/IMG_4508.jpeg){.lightbox group="group2"
-description="Amblypygi (Tailless Whip Scorpions)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
-
+![](bug_pics/IMG_4508.jpeg){.lightbox group="group2" description="Amblypygi (Tailless Whip Scorpions)<br>CA: Sta Barbara Co<br>Marine Biotechnology Lab, UCSB<br>23 April 2025<br>B. Ryan"}
 :::

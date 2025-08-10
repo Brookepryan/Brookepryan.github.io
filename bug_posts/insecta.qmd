@@ -62,7 +62,7 @@ description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>S
 
 ## Lepidoptera (Butterflies & Months )
 
-::: {layout="[1, 1, 1]"}
+::: {layout="[1, 1, 1, 1]"}
 
 ![](bug_pics/mothy.jpg){.lightbox group="group1" 
 description="*Ochlodes syvanoides* (Woodland Skipper)<br>CA: Sta Barbara<br>UCSB<br>29 July 2025<br>B. Ryan"}
