@@ -28,7 +28,7 @@ description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barba
 ![](bug_pics/IMG_2209.jpg){.lightbox group="group1" 
 description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
 
-![](bug_pics/poop.jpg){.lightbox group="group1" 
+![](bug_pics/milk.JPG){.lightbox group="group1" 
 description="*Chrysochus cobaltinus* (Cobalt Milkweed Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
 
 ![](bug_pics/IMG_4757.jpeg){.lightbox group="group1" 
@@ -64,7 +64,7 @@ description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>S
 
 ::: {layout="[1, 1, 1, 1]"}
 
-![](bug_pics/mothy.jpg){.lightbox group="group1" 
+![](bug_pics/IMG_5952.jpeg){.lightbox group="group3" 
 description="*Ochlodes syvanoides* (Woodland Skipper)<br>CA: Sta Barbara<br>UCSB<br>29 July 2025<br>B. Ryan"}
 
 ![](bug_pics/IMG_4857.jpeg){.lightbox group="group3" 
@@ -72,7 +72,7 @@ description="*Argynnis callippe* ssp. *comstocki* (Comstock's Fritillary)<br>CA:
 
 
 
-![](bug_pics/cocoon.jpg){.lightbox group="group3" 
+![](bug_pics/cocoon_crop.jpg){.lightbox group="group3" 
 description="Family Nortontidae (Prominent Moths)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
 
 ![](bug_pics/IMG_5415.jpeg){.lightbox group="group3" 
@@ -92,7 +92,7 @@ description="*Lycorma delicatula* (Spotted Laternfly)<br>PA: Allegheny Co<br>Thr
 ![](bug_pics/IMG_1751.jpeg){.lightbox group="group4" 
 description="*Homalodiscus vitripennis* (Glassy-winged Sharpshooter)<br>CA: Sta Barbara Co<br>Goleta<br>17 July 2024<br>B. Ryan"}
 
-![](bug_pics/123.jpg){.lightbox group="group4" 
+![](bug_pics/milk_hemi.jpg){.lightbox group="group4" 
 description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>16 July 2025<br>B. Ryan"}
 
 :::
@@ -139,8 +139,15 @@ description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>
 
 ## Phasmida (Stick Bugs, Timena's)
 
+::: {layout="[1, 1]"}
+
 ![](bug_pics/IMG_1364.jpeg){.lightbox group="group7" 
 description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4683.jpeg){.lightbox group="group7" 
+description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
+
+:::
 
 ----
 
