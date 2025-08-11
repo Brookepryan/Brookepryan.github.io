@@ -14,6 +14,8 @@ To explore this, I am studying blue oak and coast live oak species following pre
 
 ## Beetle Symptoms
 
+When beetles bore into trees, they create small tunnels called galleries. These galleries affect tree health in several ways: some beetle species lay their larvae inside the galleries and introduce fungi that serve as food for their offspring. Other species use the galleries as shelter while feeding on the tree’s cambium, a vital living layer responsible for transporting nutrients.
+
 ::: {layout="[1, 1]"}
 
 ![](research_photos/bbpreview.jpeg){.lightbox group="first"
