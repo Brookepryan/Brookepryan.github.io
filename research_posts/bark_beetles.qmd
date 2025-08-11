@@ -1,27 +1,65 @@
 ---
-title: "Impact of Bark and Ambrosia Beetles on Varietal Oak Woodlands After Fire Events"
-description: "Monarthrum spp. and Pseudopityophthorus spp. beetle populations significantly influence forest health, and a deeper understanding of their relationship with fire is essential for developing safe and effective forest management techniques."
+title: "Impact of Wood-boring Beetles on Varietal Oak Woodlands After Fire Events"
+description: "Bark beetles and other woodborers significantly influence forest health, and a deeper understanding of their relationship with fire is essential for developing safe and effective forest management techniques."
 categories: 
   - Personal Projects
 image: research_photos/bbpreview.jpeg
 
 ---
 
-As the threat of wildfires continues to grow, many are turning to Indigenous practices of using prescribed burns to prevent megafires and promote forest health. While prescribed burns offer numerous ecological and cultural benefits, the presence of bark and ambrosia beetles can complicate these outcomes. These insects infest trees by boring beneath the bark, creating spaces to grow and reproduce. In the process, they introduce various fungi into the trees' sapwood, which can sometimes lead to tree mortality. Since bark and ambrosia beetles tend to target stressed or dying trees, I am investigating whether prescribed burns in infested areas might inadvertently boost beetle populations, potentially increasing tree mortality.
+As the threat of wildfires continues to grow, many are looking towards indigenous knowledge and practices of using fire to maintain the landscape. This can prevent devastating megafires and promote forest health. While prescribed burns offer numerous ecological and cultural benefits, the presence of bark and ambrosia beetles can complicate these outcomes. These insects infest trees by boring beneath the bark, creating spaces to grow and reproduce. In the process, they introduce various fungi into the trees' sapwood, which can sometimes lead to tree mortality. Since bark and ambrosia beetles tend to target stressed or dying trees, I am investigating whether prescribed burns in infested areas might inadvertently boost beetle populations, potentially increasing tree mortality.
 
-To explore this, I am studying blue oak and coast live oak species following prescribed burns at Sedgwick Reserve, focusing on bark and ambrosia beetles species belonging to  Monarthrum and Pseudopityophthorus genera. My approach combines visual surveys and pheromone trapping to quantify changes in beetle populations. This research aims to better understand how these beetles should be managed in fire-prone ecosystems.  
+To explore this, I am studying blue oak and coast live oak species following prescribed burns at Sedgwick Reserve, focusing on bark and ambrosia beetle species belonging to  Monarthrum and Pseudopityophthorus genera. My approach combines visual surveys and pheromone trapping to quantify changes in beetle populations. This research aims to better understand how these beetles should be managed in fire-prone ecosystems.  
 
-::: {layout="[[1, 1], [1]]"}
+
+## Beetle Symptoms
+
+::: {layout="[1, 1]"}
 
 ![](research_photos/bbpreview.jpeg){.lightbox group="first"
 description="Bark Beetle entry holes, galleries, and fungus in a blue oak. Sedgwick Reserve, Dec 2024."}
 
+
 ![](research_photos/coaststain.jpeg){.lightbox group="first"
 description="Bark beetle entry holes + fungal staining on a coast live oak. Sedgwick Reserve, Dec 2024."}
 
-![](research_photos/urca_poster.jpg){.lightbox group="first"
+:::
+
+## Beetle Photos
+
+These are unidentified bark/ambrosia beetles that I collected from an ethanol-baited pheromone trap at Sedgwick Reserve on July 25, 2025
+
+*I have also uploaded a full inventory of the beetles I collected from these traps over the summer [here](https://github.com/Brookepryan/beetle-data/tree/main/beetle_pics).*
+
+::: {layout="[[1, 1, 1], [1, 1]]"}
+
+![](research_photos/pp1.png){.lightbox group="two"}
+
+![](research_photos/pp2.png){.lightbox group="two"}
+
+
+![](research_photos/pp3.png){.lightbox group="two"}
+
+
+![](research_photos/ms1.png){.lightbox group="two"}
+
+
+![](research_photos/ms2.png){.lightbox group="two"}
+
+
+:::
+
+## Preliminary Findings and Acknowledgments
+
+I would like to sincerely acknowledge my advisor, Dr. Shane Dewees, for encouraging me to pursue this project and for his consistent guidance throughout. I also thank Dr. Frank Davis, Dr. Leander Love-Anderegg, and the LEAF Lab for their valuable support.
+
+I received support and funding for this project from the University of California Natural Reserve System Field Science Fellowship and UCSB's Undergraduate Research & Creative Activities Grant. Here is my first midway [report](research_photos/NRS_Report_1.pdf) for the UCNRS and my preliminary findings that I presented at URCA Week Poster Colloquium:
+
+---
+
+![](research_photos/urca_poster.jpg){.lightbox width="450"
 description="UCSB Undergraduate Research Colloquium, May 2025
 “Impact of Monarthrum and Pseudopityophthorus Bark Beetles on Varietal Oak Woodlands After Fire Events”
 B Ryan"}
 
-:::
+
