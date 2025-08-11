@@ -6,7 +6,7 @@ project:
 
 website:
   site-url: https://brookepryan.github.io
-  favicon: media/frawg.png
+  favicon: media/dragonfly_fav.png
   navbar:
     title: "Brooke P. Ryan"
     left:
