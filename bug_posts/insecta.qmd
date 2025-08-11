@@ -125,7 +125,11 @@ description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick re
 
 ## Odonata (Dragonflies, Damselflies)
 
-::: {layout="[1, 1]"}
+::: {layout="[[1], [1, 1]]"}
+
+
+![](bug_pics/IMG_0443.JPG){.lightbox group="group6" 
+description="*Paltothemis lineatipes* (Red Rock Skimmer)<br>CA: Sta Barbara Co<br>Los Padres National Forest<br>25 August, 2024<br>Beautifully photographed by the talented **[Annaly Aceves](https://annalyaceves.github.io/)**"}
 
 ![](bug_pics/IMG_4811.jpeg){.lightbox group="group6" 
 description="*Rhionaeschna multicolor* (Blue-eyed darner)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
