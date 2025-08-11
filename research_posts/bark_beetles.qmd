@@ -59,9 +59,6 @@ I received support and funding for this project from the University of Californi
 
 ---
 
-![](research_photos/urca_poster.jpg){.lightbox width="450"
-description="UCSB Undergraduate Research Colloquium, May 2025
-“Impact of Monarthrum and Pseudopityophthorus Bark Beetles on Varietal Oak Woodlands After Fire Events”
-B Ryan"}
+![](research_photos/urca_poster.jpg){.lightbox width="450"}
 
 
