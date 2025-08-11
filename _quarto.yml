@@ -6,6 +6,7 @@ project:
 
 website:
   site-url: https://brookepryan.github.io
+  favicon: media/frawg.png
   navbar:
     title: "Brooke P. Ryan"
     left:

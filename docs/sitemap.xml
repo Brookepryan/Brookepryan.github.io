@@ -1,19 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://brookepryan.github.io/spanish.html</loc>
+    <lastmod>2025-07-22T05:35:07.279Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/bug_posts/crustacea.html</loc>
+    <lastmod>2025-07-24T16:32:43.701Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/research_posts/veglab.html</loc>
+    <lastmod>2025-07-22T05:35:07.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/research_posts/bark_beetles.html</loc>
+    <lastmod>2025-08-10T18:24:10.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/sewing_blog.html</loc>
+    <lastmod>2025-07-22T06:02:26.832Z</lastmod>
+  </url>
+  <url>
     <loc>https://brookepryan.github.io/environmental_experience.html</loc>
     <lastmod>2025-07-22T06:06:05.476Z</lastmod>
   </url>
   <url>
-    <loc>https://brookepryan.github.io/index.html</loc>
-    <lastmod>2025-08-10T21:01:43.008Z</lastmod>
+    <loc>https://brookepryan.github.io/posts/example_post.html</loc>
+    <lastmod>2025-07-22T05:35:07.268Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/posts/dresses.html</loc>
+    <lastmod>2025-08-10T18:17:45.160Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/posts/personal_sewing.html</loc>
+    <lastmod>2025-08-10T19:46:54.628Z</lastmod>
   </url>
   <url>
     <loc>https://brookepryan.github.io/bug_blog.html</loc>
     <lastmod>2025-07-22T06:01:04.228Z</lastmod>
   </url>
   <url>
+    <loc>https://brookepryan.github.io/index.html</loc>
+    <lastmod>2025-08-10T21:01:43.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/about.html</loc>
+    <lastmod>2025-07-22T05:35:07.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/research_posts/lab.html</loc>
+    <lastmod>2025-07-22T05:35:07.274Z</lastmod>
+  </url>
+  <url>
     <loc>https://brookepryan.github.io/bug_posts/insecta.html</loc>
     <lastmod>2025-08-11T05:45:24.933Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brookepryan.github.io/bug_posts/arachnids.html</loc>
+    <lastmod>2025-08-10T19:42:04.090Z</lastmod>
   </url>
 </urlset>
