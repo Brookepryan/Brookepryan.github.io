@@ -4,154 +4,117 @@ description: "Beetles, Bees, Butterflies - you know the gist"
 image: bug_pics/butterflies.jpg
 ---
 
-Insecta is the largest class in the entire animal kingdom, with approximately 30 recognized orders and nearly 1 million described species. Scientists estimate there may be as many as 10 million insect species on Earth. 
+Insecta is the largest class in the entire animal kingdom, with approximately 30 recognized orders and nearly 1 million described species. Scientists estimate there may be as many as 10 million insect species on Earth.
 
 Take a look at a few that have caught my eye recently:
 
 *Click on the images for tags and identifications!*
 
-----
+------------------------------------------------------------------------
 
 ## Coleoptera (Beetles)
 
 ::: {layout="[[1, 1, 1], [1, 1, 1]]"}
+![](bug_pics/IMG_4733.jpeg){.lightbox group="group1" description="*Nyctoporis carinata* (Flightless Darking Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4733.jpeg){.lightbox group="group1" 
-description="*Nyctoporis carinata* (Flightless Darking Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
+![](bug_pics/IMG_4855.jpeg){.lightbox group="group1" description="*Temnoscheila chlorodia* (Pine Trogossitid Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>29 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_4855.jpeg){.lightbox group="group1" 
-description="*Temnoscheila chlorodia* (Pine Trogossitid Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>29 May 2025<br>B. Ryan"}
+![](bug_pics/IMG_2208.jpg){.lightbox group="group1" description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_2208.jpg){.lightbox group="group1" 
-description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
+![](bug_pics/IMG_2209.jpg){.lightbox group="group1" description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_2209.jpg){.lightbox group="group1" 
-description="*Polyphylla decemlineata* (Ten-lined June Beeetle)<br>CA: Sta Barbara Co<br>UCSB<br>17 September 2024<br>B. Ryan"}
+![](bug_pics/milk.JPG){.lightbox group="group1" description="*Chrysochus cobaltinus* (Cobalt Milkweed Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
 
-![](bug_pics/milk.JPG){.lightbox group="group1" 
-description="*Chrysochus cobaltinus* (Cobalt Milkweed Beetle)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4757.jpeg){.lightbox group="group1" 
-description="*Trirhabda eriodictyonis* (Yerba Santa Beetle)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
-
+![](bug_pics/IMG_4757.jpeg){.lightbox group="group1" description="*Trirhabda eriodictyonis* (Yerba Santa Beetle)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
 :::
 
-----
-
-## Hymenoptera (Bees, Wasps, & Ants)
-
-::: {layout="[1, 1, 1, 1]"}
-
-![](bug_pics/IMG_3307.jpeg){.lightbox group="group2" 
-description="Genus *Apis* (Honey Bees)<br>CA: Sta Barbara Co<br>Foothill Rd. Carpinteria<br>30 January 2025<br>B. Ryan"}
-
-
-![](bug_pics/IMG_4471.jpeg){.lightbox group="group2" 
-description="*Dasymutilla aureola* (Pacific Velvet Ant)<br>CA: Monterey Co<br>Carmel Valley<br>20 April 2025<br>B. Ryan"}
-
-
-![](bug_pics/IMG_1468.jpeg){.lightbox group="group2" 
-description="*Xylocopa sonorina* (Valley Carpenter Bee)<br>CA: Sta Barbara Co<br>Garden St<br>1 June 2025<br>A. Aceves"}
-
-![](bug_pics/IMG_5442.jpeg){.lightbox group="group2" 
-description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 July 2025<br>B. Ryan"}
-
-
-:::
-----
-
-## Lepidoptera (Butterflies & Months )
-
-::: {layout="[1, 1, 1, 1]"}
-
-![](bug_pics/IMG_5952.jpeg){.lightbox group="group3" 
-description="*Ochlodes syvanoides* (Woodland Skipper)<br>CA: Sta Barbara<br>UCSB<br>29 July 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4857.jpeg){.lightbox group="group3" 
-description="*Argynnis callippe* ssp. *comstocki* (Comstock's Fritillary)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>29 May 2025<br>B. Ryan"}
-
-
-
-![](bug_pics/cocoon_crop.jpg){.lightbox group="group3" 
-description="Family Nortontidae (Prominent Moths)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_5415.jpeg){.lightbox group="group3" 
-description="*Coenonympha california* (Common Ringlet)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
-
-:::
-
-----
+------------------------------------------------------------------------
 
 ## Hemiptera (True Bugs)
 
 ::: {layout="[1, 1, 1]"}
+![](bug_pics/spot.jpeg){.lightbox group="group4" description="*Lycorma delicatula* (Spotted Laternfly)<br>PA: Allegheny Co<br>Three Rivers Heritage Trail<br>9 July 2024<br>B. Ryan"}
 
-![](bug_pics/spot.jpeg){.lightbox group="group4" 
-description="*Lycorma delicatula* (Spotted Laternfly)<br>PA: Allegheny Co<br>Three Rivers Heritage Trail<br>9 July 2024<br>B. Ryan"}
+![](bug_pics/IMG_1751.jpeg){.lightbox group="group4" description="*Homalodiscus vitripennis* (Glassy-winged Sharpshooter)<br>CA: Sta Barbara Co<br>Goleta<br>17 July 2024<br>B. Ryan"}
 
-![](bug_pics/IMG_1751.jpeg){.lightbox group="group4" 
-description="*Homalodiscus vitripennis* (Glassy-winged Sharpshooter)<br>CA: Sta Barbara Co<br>Goleta<br>17 July 2024<br>B. Ryan"}
-
-![](bug_pics/milk_hemi.jpg){.lightbox group="group4" 
-description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>16 July 2025<br>B. Ryan"}
-
+![](bug_pics/milk_hemi.jpg){.lightbox group="group4" description="*Oncopeltus fasciatus* (Large Mikweed Bug)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>16 July 2025<br>B. Ryan"}
 :::
 
-----
+------------------------------------------------------------------------
 
-## Orthoptera (Grasshopers, Crickets, and Katydids)
+## Hymenoptera (Bees, Wasps, & Ants)
 
+::: {layout="[1, 1, 1, 1]"}
+![](bug_pics/IMG_3307.jpeg){.lightbox group="group2" description="Genus *Apis* (Honey Bees)<br>CA: Sta Barbara Co<br>Foothill Rd. Carpinteria<br>30 January 2025<br>B. Ryan"}
 
-::: {layout="[1, 1, 1, 1, 1]"}
+![](bug_pics/IMG_4471.jpeg){.lightbox group="group2" description="*Dasymutilla aureola* (Pacific Velvet Ant)<br>CA: Monterey Co<br>Carmel Valley<br>20 April 2025<br>B. Ryan"}
 
-![](bug_pics/grasshoper_seki.jpg){.lightbox group="group5" 
-description="*Trimerotropis fontana* (Fontana Grasshoper)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+![](bug_pics/IMG_1468.jpeg){.lightbox group="group2" description="*Xylocopa sonorina* (Valley Carpenter Bee)<br>CA: Sta Barbara Co<br>Garden St<br>1 June 2025<br>A. Aceves"}
 
-![](bug_pics/IMG_4836.jpeg){.lightbox group="group5" 
-description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4837.jpeg){.lightbox group="group5" 
-description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>9 July 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_5427.jpeg){.lightbox group="group5" 
-description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_5432.jpeg){.lightbox group="group5" 
-description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
-
+![](bug_pics/IMG_5442.jpeg){.lightbox group="group2" description="Family Pompillidae (Tarantula Hawk Wasp)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>17 July 2025<br>B. Ryan"}
 :::
 
----
+------------------------------------------------------------------------
+
+## Lepidoptera (Butterflies & Months )
+
+::: {layout="[1, 1, 1, 1]"}
+![](bug_pics/IMG_5952.jpeg){.lightbox group="group3" description="*Ochlodes syvanoides* (Woodland Skipper)<br>CA: Sta Barbara<br>UCSB<br>29 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4857.jpeg){.lightbox group="group3" description="*Argynnis callippe* ssp. *comstocki* (Comstock's Fritillary)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>29 May 2025<br>B. Ryan"}
+
+![](bug_pics/cocoon_crop.jpg){.lightbox group="group3" description="Family Nortontidae (Prominent Moths)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>20 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5415.jpeg){.lightbox group="group3" description="*Coenonympha california* (Common Ringlet)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>9 July 2025<br>B. Ryan"}
+:::
+
+------------------------------------------------------------------------
+
+## Mantodea (Mantises)
+
+::: {layout="[1, 1]"}
+
+![](bug_pics/IMG_5970.jpeg){.lightbox group="group7" description="*Mantis religiosa* (European Mantis)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>12 August 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5972.jpeg){.lightbox group="group7" description="*Mantis religiosa* (European Mantis)<br>CA: Sta Barbara Co<br>Sedgwick Reserve<br>12 August 2025<br>B. Ryan"}
+:::
+
+------------------------------------------------------------------------
 
 ## Odonata (Dragonflies, Damselflies)
 
 ::: {layout="[[1], [1, 1]]"}
+![](bug_pics/IMG_0443.JPG){.lightbox group="group6" description="*Paltothemis lineatipes* (Red Rock Skimmer)<br>CA: Sta Barbara Co<br>Los Padres National Forest<br>25 August, 2024<br>Beautifully photographed by the talented **[Annaly Aceves](https://annalyaceves.github.io/)**"}
 
+![](bug_pics/IMG_4811.jpeg){.lightbox group="group6" description="*Rhionaeschna multicolor* (Blue-eyed darner)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_0443.JPG){.lightbox group="group6" 
-description="*Paltothemis lineatipes* (Red Rock Skimmer)<br>CA: Sta Barbara Co<br>Los Padres National Forest<br>25 August, 2024<br>Beautifully photographed by the talented **[Annaly Aceves](https://annalyaceves.github.io/)**"}
-
-![](bug_pics/IMG_4811.jpeg){.lightbox group="group6" 
-description="*Rhionaeschna multicolor* (Blue-eyed darner)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4880.jpeg){.lightbox group="group6" 
-description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>Refugio Rd.<br>7 May 2025<br>B. Ryan"}
-
+![](bug_pics/IMG_4880.jpeg){.lightbox group="group6" description="*hetaerina americana* (American Rubyspot)<br>CA: Sta Barbara Co<br>Refugio Rd.<br>7 May 2025<br>B. Ryan"}
 :::
 
-----
+------------------------------------------------------------------------
 
-## Phasmida (Stick Bugs, Timena's)
+## Orthoptera (Grasshopers, Crickets, and Katydids)
+
+::: {layout="[1, 1, 1, 1, 1]"}
+![](bug_pics/grasshoper_seki.jpg){.lightbox group="group5" description="*Trimerotropis fontana* (Fontana Grasshoper)<br>CA: Tulare County<br>Kings Canyon<br>29 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4836.jpeg){.lightbox group="group5" description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>27 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_4837.jpeg){.lightbox group="group5" description="Family Tettigonidae (Katydid)<br>CA: Sta Barbara Co<br>Goleta<br>9 July 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5427.jpeg){.lightbox group="group5" description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
+
+![](bug_pics/IMG_5432.jpeg){.lightbox group="group5" description="Family Acrididae (Grasshopper)<br>CA: Sta Barbara Co<br>Sedgwick reserve<br>20 May 2025<br>B. Ryan"}
+:::
+
+------------------------------------------------------------------------
+
+## Phasmida (Stick Bugs, Timema's)
 
 ::: {layout="[1, 1]"}
+![](bug_pics/IMG_1364.jpeg){.lightbox group="group7" description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
 
-![](bug_pics/IMG_1364.jpeg){.lightbox group="group7" 
-description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
-
-![](bug_pics/IMG_4683.jpeg){.lightbox group="group7" 
-description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
-
+![](bug_pics/IMG_4683.jpeg){.lightbox group="group7" description="*Timema cristinae* (Christinas Timema)<br>CA: Sta Barbara Co<br>Gibraltar Rd<br>22 May 2025<br>B. Ryan"}
 :::
 
-----
-
+------------------------------------------------------------------------
