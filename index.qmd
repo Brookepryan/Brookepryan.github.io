@@ -1,6 +1,6 @@
 ---
 title: "Brooke P. Ryan"
-image: media/IMG_0715.JPG
+image: media/IMG_0623.jpeg
 toc: false
 about: 
   template: solana
